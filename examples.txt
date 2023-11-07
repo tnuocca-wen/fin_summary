@@ -1,0 +1,695 @@
+[
+    {'malayalam_sent' : '''രണ്ടായിരത്തി പതിമൂന്നാമാണ്ട് ഡിസംബർ മാസം പടി പതിനാലാം തീയതി കോട്ടയം താലൂക്ക് അതിരമ്പുഴ വില്ലേജ് പടിഞ്ഞാറ്റും ഭാഗം കരയിൽ ശ്രീകണ്ഠമംഗലം പി.ഒ, പിൻ-686562, പഴയപുരയ്ക്കൽ താഴത്ത് വീട്ടിൽ ദേവസ്യ മകൻ കമ്പനിജോലി അൻപത്തിമൂന്നു വയസ്സുള്ള ജോസ് സെബാസ്റ്റ്യൻ (പാൻകാർഡ് നമ്പർ BYNPS9227B) എന്നയാൾ ചേർത്തല താലൂക്ക് പള്ളിപ്പുറം വില്ലേജ് പള്ളിപ്പുറം കരയിൽ പള്ളിപ്പുറം പി.ഒ, പിൻ-688541, തമ്പുരാങ്കൽ വീട്ടിൽ ഗോപിനാഥ് മൊഹാദ് മകൻ ബിസിനസ് നാല്പ്പത്തിമൂന്നു വയസ്സുള്ള രാജേഷ് ഗോപിനാഥ് (പാൻ കാർഡ് നമ്പർ ATAPG8560C) പേർക്ക് എഴുതി കൊടുത്ത തീറാധാരം.''',
+    'translation':'''This is the sale deed executed by Jose Sebastian (Pan card number BYNPS9227B), aged 53 years, employed in a company, son of Pazhayapurakkal Thazhathu Veettil Devasya, Padinjattum Bhagam Karayil, Sreekandamangalam PO, PIN 685562, Athirampuzha Village, Kottayam Taluk, in favor of Rajesh Gopinath (Pan card number ATAPG8560C), aged 43 years, doing his own business, son of Thampurankal Veettil Gopinath Mohad, Pallippuram Kara, Pallippuram PO, PIN 688541, Pallippuram Village, Chertala Taluk, on this the thirteenth day of December 2013'''},
+    
+    {'malayalam_sent': ''' ഗോപാലൻ മകൻ കമ്പനിജോലി അൻപത്തിമൂന്നു വയസ്സുള്ള വർഗീസ്''',
+    'translation': ''' Varghese, aged 53 years employed in a company, son of Gopalan'''},
+
+    {'malayalam_sent': '''കോട്ടയം താലൂക്ക് അതിരമ്പുഴ വില്ലേജ് പടിഞ്ഞാറ്റും ഭാഗം കരയിൽ ശ്രീകണ്ഠമാഗലം പി.ഒ, പിൻ-686562, പഴയപുരയ്ക്കൽ താഴത്ത് വീട്ടിൽ ദിനകരൻ''',
+    'translation': ''' Dinakaran, Pazhayapurakkal Thazhathu Veedu, Athirampuzha Villege, Padinjattum Bhagam Kara, Sreekandamangalam PO, PIN - 682562, Kottayam Taluk'''},
+
+    {'malayalam_sent': '''കൊല്ലം 1182 മിഥുനം 6-ാം തീയതിക്ക് 2007 ജൂൺ 21- ാം തീയതി രണ്ടായിരത്തി ഏഴ്ജൂൺ ഇരുപത്തി ഒന്നാം തീയതി ഒറ്റപ്പാലം താലൂക്ക് പേരൂര് അംശം ദേശത്ത് കടകശ്മീരി വളപ്പിൽ താജുദ്ദീൻ മകൻ സഫ മൻസിലിൽ താമസം 31 വയസ്സുള്ള ഫാർമസിസ്റ്റ് യുനാൻ എന്റെ ഉമ്മയും മേപ്പടി പേരൂർ അംശം ദേശത്ത് മേൽപറഞ്ഞ കടകശ്ശീ വളപ്പിൽ (സയൂഫ മൻസിലിൽ) താജുദ്ദീൻ ഭാര്യയും 55 വയസ്സുള്ള സ്വസ്‌ഥം ഖദീജ പേർക്ക് എഴുതി കൊടുത്ത അവകാശം തീറാധാരം.''',
+    'translation': '''This is the sale deed executed on June 21, 2007 (Malayalam year 1182, Muthunum, 6th) by Yunus Khan, son of Tajuddeen, employed as a pharmacist, aged 31 years, Sayufa Manzil, Katakassery Valappil, Peroor Amsom Desom, Ottappalam Taluk in favor of his mother Kadeeja, who is unemployed, wife of Tajuddeen, Sayufa Manzil, Katakassery Valappil, Peroor Amsom Desom, Ottappalam Taluk'''},
+     
+    {'malayalam_sent': '''രണ്ടായിരത്തി പതിമൂന്നാമാണ് ഡിസംബർ മാസം പതിനാലാം തീയതി''',
+    'translation': '''December 13th, 2013'''},
+
+    {'malayalam_sent': '''കൊല്ലം 1182 മീനം 20-ാം തീയ്യതിക്ക് 2007 ഏപ്രിൽ 3-ാം തീയ്യതി രണ്ടായിരത്തി ഏഴ് ഏപ്രിൽ മൂന്നാം തീയ്യതി ഒറ്റപ്പാലം താലൂക്ക് പേരു അംശം ദേശത്ത് കടകശ്മീരി വളപ്പിൽ താജുദ്ദീൻ മക്കൾ 31 വയസ്സ് ഫാർമസിസ്റ്റ് 1, ചാനും 30 വയസ്സ് കമ്പനിജോലി 2. ഫൈസൽ എന്ന അസീസും കൂടി എഴുതി വെച്ച് പരസ്പരമാറ്റാധാരം.''',
+    'translation': '''The exchange deed written together by 1. Yoonus Khan aged 31 who is a pharmasist and 2. Faizal aka Aziz, children of Tajuddeen of Kadakassery House, Peroor Amsam Desam, Ottappalam Taluk, in the malayalam year 1182 in the malayalam month of Meenam on the 20th, which is the year 2007 in the month of April on the 3rd.'''},
+
+    {'malayalam_sent': '''അതിനാൽ പട്ടികയിലെ വഹകൾ ഇന്നു മുതൽക്ക് താൻ സ്വന്തമായി കൈവശം വെച്ചും നികുതി അടച്ചും അനുഭവിക്കുന്നതിനും ക്രയവിക്രയം ചെയ്യുന്നതിനും തനിക്ക് പൂർണ്ണ അധികാരമുള്ളതും എനിക്ക് യാതൊരവകാശവും ഇല്ലാത്തതുമാകുന്നു.''',
+    'translation': '''Therefore as of today you have the full right to possess, pay the taxes, enjoy the benefits of and transact the properties listed in the table and I have no right over it.'''},
+
+    {'malayalam_sent': '''പട്ടികയിലെ വഹകൾ ചാർജ്ജായി യാതൊരു വിധ കടബാധ്യതകളും കോർട്ട് ജപ്തി മുതലായ ബാദ്ധ്യതകളും നികുതി ബാക്കിയും ഇല്ല.''',
+    'translation': '''The properties listed in the table do not have any charges of debt or court foreclosure or pending tax charges associated with it.'''},
+
+    {'malayalam_sent': '''വഹകൾ ലെക്കിടി പേരൂർ-II വില്ലേജിലും ലക്കിടി പേരൂർ പഞ്ചായത്തിലും പെട്ടതാകുന്നു.''',
+    'translation': '''The properties are situated in Lakkidi Peroor-II village which is in the Lakkidi Peroor Panchayth'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരം 1, 00, 000/-, വിലക്കുള്ളതും താഴെ പട്ടികയിൽ പറയുന്നതുമായ വഹകൾ അതിലുള്ള ജന്മം, കുഴിക്കൂർ ചമയം കൈവശം മുതലായ സകലവിധ അവകാശങ്ങളോടും കൂടി എന്റെ ഭാര്യയും എന്നെ മാത്രം ആശ്രയിച്ചു ജിവിച്ചു വരുന്നവളും വേറെ യാതൊരു മുതലും ഇല്ലാത്തവളുമായ തനിക്ക് തന്റെ മേലാലത്തെ കഴിച്ചിലിനും ക്ഷേമാഭിവൃദ്ധിക്കും വേണ്ടി തന്നോട് എനിക്കുള്ള സ്നേഹവാത്സല്യം നിമിത്തം ഇതിനാൽ തനിക്ക് സെറ്റിൽമെന്റ് ചെയ്ത് തരികയും പട്ടികയിലെ വഹകൾ വിട്ടൊഴിഞ്ഞ് കൈവശം തരികയും ചെയ്തിരിക്കുന്നു.''',
+    'translation': '''As said above, the properties listed in the table below which is priced at 1,00,000/- along with all it's rights such as 'janmam', 'kizhikkoor', 'chamayam', possession I make the settlement and hand over the possession of the properties in the table to my wife, who has been living solely dependent on me who do not have any other sources of income or capital for her continued sustenance and welfare out of my love and affection for her'''},
+
+    {'malayalam_sent': '''തൃശ്ശൂർ ജില്ല ചാലക്കുടി താലൂക്ക് കിഴക്കെ ചാലക്കുടി വില്ലേജ് ടി ദേശത്ത് ചാലക്കുടി പി. ഒ. പിൻ കോഡ് 680 307 ചാലക്കുടി മുനിസിപ്പാലിറ്റി 24-ാം വാർഡിലെ 544-ാം നമ്പർ വിജയലക്ഷ്മി മന്ദിരത്തിൽ താമസം കരിമാലി വീട്ടിൽ ലക്ഷ്മി അമ്മ മകളും മരിച്ച ചിത്ത് കുമാരൻ നായർ ഭാര്യയുമായ ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ KL10/061084373 സ്വസ്ഥം 83 എൺപത്തി മൂന്ന് വയസ്സ് 1. സരോജിനി അമ്മ, ടിയാരിയുടെയും ടി മരിച്ച കുമാരൻ നായരുടെയും മക്കൾ ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ BLD1380930 മണി മന്ദിരത്തിൽ മൻമോഹൻ ഭാര്യ ഗൃഹഭരണം 61 അറുപത്തി ഒന്ന് വയസ്സ് വിജയലക്ഷ്മി, ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ KL/10/061/084550 ബിസിനസ്സ് 56 അമ്പത്തി ആറ് വയസ്സ് രാഘവൻ, ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ KL10/161084193 ബിസിനസ്സ് 51 അമ്പത്തി ഒന്ന് വയസ്സ് 4. പ്രകാശ് കുമാർ, ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ KL10/06/ 084374 ബിസിനസ്സ് 45 നാൽപ്പത്തി അഞ്ച് വയസ്സ് 6. ഉണ്ണികൃഷ്ണൻ എന്നുവിളിക്കുന്ന പ്രവീൺ കുമാർ, ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ KL10/ 061084377 ബിസിനസ്സ് 49 നാൽപ്പത്തി ഒമ്പത് വയസ്സ് പ്രദീപ് കുമാർ, ഇന്ത്യൻ പാസ്സ്പോർട്ട് നമ്പർ G 1213986 ബിസിനസ്സ് 53 അമ്പത്തി മൂന്ന് വയസ്സ് അശോക് കുമാർ, തൃശ്ശൂർ ജില്ല ചാലക്കുടി താലൂക്ക് കിഴക്കെ ചാലക്കുടി വില്ലേജ് ടി ദേശത്ത് ചാലക്കുടി പി. ഒ പിൻകോഡ് 680 307 ചാലക്കുടി മുനിസിപ്പാലിറ്റി 24-ാം വാർഡിലെ 436(17331)-ാം നമ്പർ തിരുവാതിര വീട്ടിൽ താമസക്കാർ 1-ാം നമ്പുകാരിയുടെയും ടി മരിച്ച കുമാരൻ നായരുടെയും മകൻ മരിച്ച ഗോപാലകൃഷ്ണൻ ഭാര്യ ഇന്ത്യൻ പാസ്സ്പോർട്ട് നമ്പർ F8980235 ഗൃഹ ഭരണം 55 അമ്പത്തി അഞ്ച് വയസ്സ് ശ്രീകുമാരി ടി മരിച്ച ഗോപാല കൃഷ്ണന്റെയും 9-ാം നമ്പുകാരിയുടെയും മക്കൾ ഇന്ത്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തിരിച്ചറിയൽ കാർഡ് നമ്പർ MZL1388974 പ്രശാന്ത് മേനോൻ ഭാര്യ ഗൃഹഭരണം 35 മുപ്പത്തി അഞ്ച് വയസ്സ് 3. അർച്ചന, ഇന്ത്യൻ പാസ്സ്പോർട്ട് നമ്പർ F 9342284 ഗൃഹമരണം 32 മുപ്പത്തി രണ്ട് വയസ്സ് 10. ദേവി എന്നുവിളിക്കുന്ന ദേവിക, എന്നിവർ കൂടി പരസ്പരം നിശ്ചയിച്ചും സമ്മതിച്ചും എഴുതിവച്ച് ഭാഗപത്രം''',
+    'translation': '''Indian No. KL/10/061/084373, D/o Karimalil Veettil Lakshmi Amma, and W/o Late chitteth Kumaran Nair, residing in Vijayalakshmi Mandiram,, House No. 544 of Ward No. 24 of chalakudy Municipality, Kizhakke chalakudy Desom, Kizhakke Chalakudy Village, Chalakudy P. O. Pin 680307, Thrissur District, the children above Sarojini Amma and late Kumaran Nair (2) Vijayalakshmi, aged 61 Years(Sixty One Years Old), House W/o Manmohan, residing in ManiMandiram, Indian Election Commission I. D. Card No. BLD1380930, (3) Raghavan, aged 56 Years, (Fifty Six YearsOld), Business Indian Election Commission I. D. Card No. KL/10/061/084550, (4) Prakash Kumar, Aged 51 Years, (Fifty One Yeasrs Old), Business, Indian Election Commission I. D. Card (Eighty Three Years Commssion I. D. Card No. KL/10/061/084193 (5) Praveen Kumar alias Unnikrishnan, Aged 45 Years (Forty Five Years Old), Business,, Indian Election Commission I. D. Card No. KL/10/061/084374, (6)Pradeep Kumar, Aged 49 Years (Forty Nine Years Old), Business, Indian Election Commission I. D. Card No. KL/10/061/084377 (7)Ashok Kumar ASged 53 Years, (Fifty Three Years Old), Business, Indian Passport No. G. 1213986, (8) Sreekumari, Aged 55 Years, (Fifty Five Years Old), House wife, Indian Passport No. F 8980235, W/o Late Gopalakrishnan, S/o the 1st numbered above and Late Kumaran Nair, residing in Thiruvathira Veedu, House No. 436 (17/331) of Ward No. 24 of the Chalakudy Municipality, Chalakudy P. O., Pin- 680307, chalakudy Talik in Thrissur District, (9) Archana, Aged 35 years, (Thirty Five years Old), House wife, W/o Prasanth Menon, Indian Election Commission I. D. Card No. MZL1388974, D/o Late Gopalakrishnan and 8th numbered above (10) Devika alias Devi, Aged 32 years, (Thirty Two years Old), House wife, Indian Passport No. F 9342284, D/o Late Gopalakrishnan and 8th numbered above, written, determined and decided each other among them.'''},
+
+    {'malayalam_sent': '''താഴെ എ പട്ടികയിലും ബി പട്ടികയിലും ചേർക്കുന്ന വഹകൾ നമ്മളിൽ 2 മുതൽ 7 കൂടി നമ്പുകാർക്കും മരിച്ച ഗോപാലകൃഷ്ണനും കൂടി ചാലക്കുടി രജിസ് 1971ലെ 1-ാം പുസ്തകം 55-ാം വാല്യം 465 മുതൽ 474 വരെ വശങ്ങളിൽ 1054-ാം നമ്പ് സെറ്റിൽമെന്റ് ഭാഗപതം ജെ പട്ടിക 4 നമ്പായി സിദ്ധിച്ചതിൽപ്പെട്ടതും ടി ഗോപാലകൃഷ്ണൻ എന്നവരുടെ അവകാശം ടിയാന്റെ മരണശേഷം പിൻതുടർച്ചവഴി നിയമാനുസൃത അവകാശികളായ മാതാവ് 1-ാം നമ്പുകാരിക്കും.ഭാര്യ 8 നമ്പുകാരി മക്കൾ 9, 10 നമ്പുകാർ ക്കും കൂടി കൂട്ടായി ലയിച്ചിട്ടുള്ളതും അതനുസരിച്ച് ടി വഹകൾ ഇപ്പോൾ 1 മുതൽ 10 കൂടി നമ്പുകാരുടെ കൂട്ടാവകാശ കൈവശത്തിലും പ്രയത്നത്തിലും ഇരിക്കുന്നതും കൂട്ടാവകാശപ്പെട്ടതുമാകുന്നു.''',
+    'translation': '''The properties specifically described in 'A' schedule and 'B' schedule have been in continuous, un-interrupted, peaceful possession and enjoyment of the 2nd numbered above to 7th numbered above among us and of the late Gopalakrishnan as per Settlement Deed No. 1054 recorded at pages 465 to 3 474 of volume 55 of Book No. 1 of the Sub-Registrar's Office Chalakudy in the year 1971 and consequent to the death of Late Gopalakrishnan, his rights over the property evolved to his Mother and his Wife numbered 8th above and their children numbered 9th and 10th above jointly, by succession as legal heirs and as stated above the scheduled properties have been collectively merged with the 9th and 10th above and the properties are in the collective possession and effort of the 1st to 10th numbered above and are collectively entitled.'''},
+
+    {'malayalam_sent': '''താഴെ സി പട്ടികയിൽ ചേർക്കുന്ന വഹകൾ നമ്മളിൽ 2 മുതൽ 7 കൂടി നമ്പുകാർക്കും ടി ഗോപാലകൃഷ്ണനും കൂടി ചാലക്കുടി രജിന് 1971ലെ 1-ാം പുസ്തകം 51-ാം വാല്യം 451 മുതൽ 452 വരെ വശങ്ങളിൽ 413-ാം നമ്പ് സെറ്റിൽമെന്റാധാരപ്രകാരം സിദ്ധിച്ചതും ടി ഗോപാലകൃഷ്ണ ൻ എന്നവരുടെ അവകാശം ടിയാന്റെ മരണശേഷം പിൻതുടർച്ചവഴി നിയമാനുസൃത അവകാശികളായ മാതാവ് 1-ാം നമ്പുകാരിക്കും, ഭാര്യ 6-ാം നമ്പുകാരിക്കും, മക്കൾ 9, 10 നമ്പുകാർക്കും കൂടി കൂട്ടായി ലയിച്ചിട്ടുള്ളതും അതനുസരിച്ച് ടി വഹകൾ ഇപ്പോൾ നമ്മളുടെ കൂട്ടാവകാശ കൈവശത്തിലും പ്രയത്നത്തിലും ഇരിക്കുന്നതും നമ്മൾക്ക് മാത്രം കൂട്ടാവകാശപ്പെട്ടതുമാകുന്നു.''',
+    'translation': '''The properties specifically described in Schedule 'C' have been obtained by 2nd numbered above to 7th numbered among us and by the above Gopalakrishnan as per the Settlement Deed No. 413 recorded at pages 451 to 452 of volume 51 of Book No. 1 of the Sub-Registrar's Office Chalakudy in the year 1971 and consequent to the death of the above Gopalakrishnan, that part of the property entitled to him has been inherited by succession by his legal heirs, his Mother, the 1st numbered above, his Wife 8th numbered above and his children namely 9th and 10th numbered above and the properties have collectively merged with the rest of the property and accordingly the properties are now in the collective ownership, joint possession and effort, which is entitled to us only.'''},
+
+    {'malayalam_sent': '''താഴെ സി, ഡി പട്ടികകളിൽ ചേർക്കുന്ന വഹ കൾ ചാലക്കുടി സബ് രജിസ്റ്റ് 1971ൽ 1 പുസ്തകം 55-ാം വാല്യം 39 മുതൽ 41 വരെ വശങ്ങളിൽ നമ്പായി നമ്മളിൽ 2 മുതൽ 7 കൂടി നമ്പുകാരുടെ പിത സഹോദരിയും 90 10 നമ്പുകാരുടെ പിതാവിന്റെ പിതൃ സഹോദരിയുമായ ദേവകി അമ്മയ്ക്ക് സിദ്ധിച്ചതും ടി ദേവകി അമ്മ മേപ്പടി വഹകളെ സംബന്ധിച്ച് ടി രജിസ് 3-ാം പുസ്തകം 45-ാം വാല്യം 23 24-ം വശങ്ങളിൽ 50-ാം നമ്പായി ഒരു മരണപ്രശ്നം എഴുതി രജിസ്ട്രാക്കി വച്ചിട്ടുള്ളതും ടി ദേവകി അമ്മ മരണപ്പെട്ടിട്ടുള്ളതും ടി മരണപത്രം പ്രാബല്യത്തിൽ വന്നിട്ടുള്ളതും അതനുസരിച്ച് താഴെ സി ഡി പട്ടിക 2 മുതൽ 7 കൂടി നമ്പുകാർക്കും 9 10 നമ്പുകാർക്കും കൂടി കൂട്ടായി ലയിച്ചിട്ടുള്ളതും അതനുസരിച്ച് ടി വഹകൾ ഇപ്പോൾ നമ്മളുടെ കൂട്ടാവകാശകൈവശത്തിലും പ്രയ ത്തിലും ഇരിക്കുന്നതും നമ്മൾക്ക് മാത്രം കൂട്ടാവകാശപ്പെട്ടതുമാകുന്നു.''',
+    'translation': ''' The properties specifically described in Schedule 'C' and 'D' have been obtained by Devaki Amma, the aunt of the 2nd numbered to 7th numbered among us and the great aunt of the 9th and 10th numbered above as per Deed No. 904, recorded at pages 39 to 41 of Volume 55 of Book No. 1 of the Sub-Registrar's Office Chalakudy in the year 1971he above Devaki Amma had executed her Will No. 50, recorded at pages 23 to 24 in Volume 46 of Book No. 1 of the SRO in the year 1984, and subsequent to the death of the above Devaki Amma, the above Will came into operation and accordingly the properties described id in Schedule 'C' and 'D' have been inherited by 2nd numbered to 7th numbered along with 9th and 10th numbered above have been merged with the rest of the property and jointly enjoyed and owned by us in our collective possession and effort and the same is entitled to us only.'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരം കൂട്ടാവകാശപ്പെട്ടതും ഭാഗാർഹമായതും മൊത്തം 40045000 നാല് കോടി നാൽപ്പത്തി അയ്യായിരം രൂപ മാർക്കറ്റ് വിലയുള്ളതുമായ വഹകളെ കൊണ്ട് താഴെ പറയും പ്രകാരം ഭാഗിച്ച് പിരിയുന്നതായാൽ ഇന്നത്തെക്കാൾ കൂടുതൽ അഭിവൃദ്ധിപ്പെടു വാനം മറ്റും ഇടയുള്ളതാണെന്നും നമ്മൾ പരസ്പരം സമ്മതിച്ചതനുസരിച്ച് താഴെ പറയും പ്രകാരം ഭാഗിച്ച് തിരിഞ്ഞിട്ടുള്ളതുമാകുന്നു.''',
+    'translation': '''Having collective rights as above and being partitionable, the property having an assessed total value of Rs. 4, 0045, 000 (Rupees Four Crores Forty Five Thousand only) is partitioned as described below, as we thought that if partitioned, it would be more beneficial and for further development and as we have decided and agreed among us each other, the properties are partitioned as detailed below.'''},
+
+    {'malayalam_sent': '''നമ്മളിൽ 1 2, 4, 6, 8 നമ്പുകാർക്ക് ഓഹരിയായി ഒന്നും തന്നെ ആവശ്യമില്ലെന്ന് ആവശ്യപ്പെട്ടതിനെ മറ്റു നമ്പുകാർ സമ്മതിച്ചതനുസരിച്ച് നമ്മളിൽ 1, 2, 4, 6, 8 നമ്പുകാർക്ക് ഇതിൽ ഭഗോഹരിയായി യാതൊന്നും തിരിച്ചു വച്ചിട്ടില്ലാത്തതും ഈ ഭാഗപത്രത്തിന്റെ പൂർത്തീകരണത്തിനു വേണ്ടി നമ്മളിൽ 1, 2, 4, 6, 8 നമ്പുകാർ ഇതിൽ കക്ഷി ചേർ ന്നിട്ടുള്ളതുമാകുന്നു.''',
+    'translation': '''Among us, 1, 2, 4, 6, and 8 numbered above have admitted each of them that they do not require anything as share from the above properties and as the same has been accepted by others, nothing is demarcated for 1, 2, 4, 6 and 8 numbered among us, but for the completion of this partition deed, 1, 2, 4. 6 and 8 among us are also included as parties to the deed.'''},
+
+    {'malayalam_sent': '''താഴെ എ, ബി, സി, ഡി എന്നിങ്ങനെ നാല് പട്ടികകളായി ചേർക്കുന്നതായ വഹക ളിൽ താഴെ എ പട്ടികയിൽ ചേർക്കുന്നതായ വഹകൾ നമ്മളിൽ 3-ാം നമ്പുകാരൻ രാഘവൻ എന്നവരുടെ ഓഹരിയായും ബി പട്ടികയിൽ ചേർക്കുന്നതായ വഹകൾ നമ്മളിൽ 9-ാം നമ്പുകാരി അർച്ചന 13-ാം നമ്പുകാരി ദേവി എന്നുവിളിക്കുന്ന ദേവിക എന്നിവരുടെ കൂട്ടായ ഓഹരിയായും സി പട്ടികയിൽ ചേർക്കുന്നതായ വഹകൾ നമ്മളിൽ 7-ാം നമ്പുകാരൻ അശോക് കുമാർ എന്നവരുടെ ഓഹരിയായും ഡി പട്ടികയിൽ ചേർക്കു ന്നതായ വഹകൾ നമ്മളിൽ 5-ാം നമ്പുകാരൻ ഉണ്ണികൃഷ്ണൻ എന്നുവിളിക്കുന്ന പ്രവീൺകുമാർ എന്നവരുടെ ഓഹരിയായും ഭാഗിച്ചു തിരിച്ച് ഇതിനാൽ വേർപെടുത്തിയിരിക്കുന്നു.''',
+    'translation': '''Out of the properties specifically described in Schedule 'A', 'B', 'C' and 'D', the properties included in 'A' schedule have been allotted to Raghavan, the 3rd numbered above as his share, the properties included in schedule 'B' have been allotted to Archana, the 9th numbered and to Devika alias Devi, the 10th numbered above as their joint share, the properties included in 5 schedule 'C' have been allotted to Ashok Kumar, the 7th numbered among us as his share and the properties included in schedule 'D' have been allotted to Praveen Kumar alias Unnikrishnan, the 5th numbered among us as his share thus the partitioned shares are hereby separated.'''},
+
+    {'malayalam_sent': '''ഈ ഭാഗപത്രം വ്യവസ്ഥാനുസരണം കൂട്ടാവകാശം വേർപ്പെടുത്തി എടുത്തിട്ടുള്ള താഴെ എ പട്ടികവഹകൾ നമ്മളിൽ 3-ാം നമ്പുകാരൻ രാഘവൻ എന്നവരും ബി പട്ടിക വഹകൾ നമ്മളിൽ 9-ാം നമ്പുകാരി അർച്ചന, 10-ാം നമ്പുകാരി ദേവി എന്നുവിളിക്കുന്ന 6. പ്രദീപ് കുമാർ 7. അശോക് കുമാർ 8. ശ്രീകുമാരി 9. അർച്ചന വിളിക്കുന്ന ദേവിക ദേവിക എന്നിവർ കൂട്ടായും സി പട്ടിക വഹകൾ നമ്മളിൽ 7-ാം നമ്പുകാരൻ അശോക് കുമാർ എന്നവരും ഡി പട്ടിക വഹകൾ നമ്മളിൽ 5-ാം നമ്പുകാരൻ ഉണ്ണികൃഷ്ണൻ എന്നുവിളിക്കുന്ന പ്രവീൺ കുമാർ എന്നവരും പ്രത്യേകം കൈവശം എടുക്കുകയും കൊടുക്കുകയും ചെയ്തിരിക്കകൊണ്ട് എ പട്ടികവഹകൾ നമ്മളിൽ 3-ാം നമ്പുകാരൻ രാഘവൻ എന്നവരും ബി പട്ടികവഹകൾ നമ്മളിൽ 9-ാം നമ്പുകാരി അർച്ചന 1 നമ്പുകാരി ദേവി എന്നുവിളിക്കുന്ന ദേവിക എന്നിവർ കൂട്ടായും സി പട്ടികവഹകൾ നമ്മളിൽ 7-ാം നമ്പുകാരൻ അശോക് കുമാർ എന്നവരും ഡി പട്ടികവഹകൾ നമ്മളിൽ 5-ാം നമ്പുകാരൻ ഉണ്ണികൃഷ്ണൻ എന്നുവിളിക്കുന്ന പ്രവീൺ കുമാർ എന്നവരും ഇന്നുമുതൽ കൈവശം വച്ചും നികുതി മുതലായത് തീർത്തും ജമ പേരിൽ പതിപ്പിച്ചും സകലകയവിക്രയ സ്വാത ന്ത്യങ്ങളോടു കൂടി അടക്കി അനുഭവിച്ചു കൊള്ളേണ്ടതുമാകുന്നു''',
+    'translation': '''The properties separated from joint possession and included in schedule 'A' as per the terms and conditions of this Partition Deed, should be possessed and given to Raghavan, the 3rd numbered among us, the properties included in schedule 'B' should be jointly possessed and given to the 9th numberd Archana and 10th numbered Devika alias Devi among us 1. Sarojini Amma (Sd/-) 6. Pradeep Kumar (Sd/-) 2. Vijayalakshmi (Sd/-) 7. Ashok Kumar (Sd/-) 3. Raghavan (Sd/-) 8. Sreekumari (Sd/-) 4. Prakash Kumar (Sd/-) 9. Archana (Sd/-) 5. Praveen Kumar alias Unnikrishnan (Sd/-) 10. Devika alias Devi (Sd/-) The properties included in schedule 'C' should be possessed and given to Ashok Kumar, the 7th numbered among us and the properties included in schedule 'D' should be taken over and given to Praveen Kumar alias Unnikrishnan, the 5th among us in their individual and independent possession and therefore the properties in 'A' schedule by Raghavan, the 3rd numbered among us, the properties in 'B'schedule by 9th numbered Archana and 10th numbered Devika alias Devi among us jointly, the properties in 'C' schedule by Ashok Kumar, the 7th numbered among us and the properties in 'D' schedule by Praveen Kumar alias Unnikrishnan, the 5th numbered among us should be possessed from today onwards, after effecting mutation, changing the ownership in their names and paying taxes and enjoy with full rights and complete freedom to buy and sell.'''},
+
+    {'malayalam_sent': '''താഴെ പട്ടികവഹകളിന്മേൽ സ്ഥാപിച്ച് മേലാൽ പരസ്പരം യാതൊരു കൂട്ടാവ കാശ ബാദ്ധ്യതകളും നമ്മൾ തമ്മിൽ ഉണ്ടായിരിക്കുന്ന തല്ലെന്നും നമ്മൾ ഇതിനാൽ പൂർണ്ണമായി സമ്മതിച്ചിരിക്കുന്നു.''',
+    'translation': '''We hereby agreed that there will not be any joint liabilities each other among us in respect of the properties scheduled below henceforth.'''},
+
+    {'malayalam_sent': '''താഴെ പട്ടികവഹകളെ സംബന്ധിച്ച് യാതൊരുവിധ കടം, പണയം മുതലായ ബാദ്ധ്യതകളില്ലാത്തതും പട്ടികവഹകൾ വനഭൂമി, നിക്ഷിപ്ത വനഭൂമി, പാരിസ്ഥിതിക ദുർബലപ്രദേശം എന്നിവകളിലും പട്ടികജാതി പട്ടികവർഗക്കാർ ക്ക് പതിച്ച് പട്ടയം കൊടുത്ത വസ്തുക്കളിലും ഉൾപ്പെട്ടവയല്ല എന്നും ടി വഹകളിന്മേൽ സ്ഥാപിച്ചു വേറെ അവകാശികളോ കോടതി ജപ്തി ജാമ്യം സിവിൽ റവന്യു മുതലായ തടങ്ങലുകളോ ഇല്ലെന്നും വഹകൾ മിച്ചഭൂമിയിലോ ഗവൺമെന്റ് സീലിങ് കേസുകളി സർക്കാർ വക പുറമ്പോക്കിലോ ഉൾപ്പെട്ടിട്ടില്ലെന്നും നമ്മൾ തമ്മിൽ പരസ്പരം പൂർണ്ണമായി വിശ്വസിപ്പിച്ചിരിക്കുന്നു''',
+    'translation': '''It is also made each other among us to believe that these properties are not subjected to any encumbrances or liabilities or Court attachment, Confiscation, bailment, lease or charge etc. and that the scheduled property is not in Reserved Forest Land or within the limits of Tribal Land Protection Act, 1975 and that not surplus land beyond the limits prescribed by the Kerala Land Reforms Act, Kerala Land Assignment Act etc. The properties are not included in the land reserved for persons with disabilities as referred in the Trust Act, 1999 and it is not included in Ecologically Fragile Area. The properties are not involved in any Revenue Recovery, Land Assignment, and the same are not involved in any Revenue Recovery, or Land Acquisition Proceedings and not poramboke land of the government.'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരം ഭാഗിച്ച് സ്വത്തുക്കളിൽ 10500000 രൂപ ഓഹരി വിലയുള്ള വഹകളും 1000000 രൂപ വിലയുള്ള തന്നിലെ കെട്ടിടവും അടക്കം മൊത്തം 11500000 ഒരു കോടി പതിനഞ്ച് ലക്ഷം രൂപ ഓഹരി വിലയുള്ള എ പട്ടികവഹകൾ നമ്മളിൽ 3-ാം നമ്പുകാരനും 6565000 അറുപത്തി അഞ്ച് ലക്ഷത്തി അറുപത്തി അയ്യായിരം രൂപ. സരോജിനി അ 2. വിജയലക്ഷ്മി U-k 4. പ്രകാശ് കുമാർ 5. ഉണ്ണികൃഷ്ണൻ എന്ന് വിളിക്കുന്ന പ്രവീൺകുമാർ 6. പ്രദീപ് കുമാർ - 7. അശോക് കുമാർ 8. ശ്രീകുമാരി 8. അർച്ചന 10. ദേവി എന്ന് വിളിക്കുന്ന ദേവിക ഓഹരി വിലയുള്ള ബി പട്ടികവഹകൾ നമ്മളിൽ 9, 10 നമ്പുകാർക്കും 19110000 ഒരുകോടി തൊണ്ണൂറ്റി ഒന്ന് ലക്ഷത്തി പതിനായിരം രൂപ ഓഹരി വിലയുള്ള സി പട്ടികവഹകൾ നമ്മളിൽ 7-ാം നമ്പുകാരനും 2870000 ഇരുപത്തി എട്ട് ലക്ഷത്തി എഴുപതിനായിരം രൂപ ഓഹരി വിലയുള്ള ഡി പട്ടികവഹകൾ നമ്മളിൽ 5-ാം നമ്പുകാരനും തിരിച്ചുവച്ചി ട്ടുള്ളതും അടക്കം 40045000 നാല് കോടി നാൽപ്പത്തി അയ്യായിരം രൂപ മാർക്കറ്റ് വിലയുള്ള ഈ ഭാഗപത്രത്തിന് വലിയ ഓഹരിയായ സി പട്ടികവഹകളുടെ ഓഹരി വില 19110000 രൂപ നീക്കി ശേഷം എ, ബി, ഡി പട്ടികവഹകളുടെ ഓഹരി വിലയായ 20935000 രണ്ട് കോടി ഒമ്പത് ലക്ഷത്തി മുപ്പത്തി അയ്യായിരം രൂപയ്ക്ക് 1000 ആയിരം രൂപ മുദ്രവില ചുമത്തിയിട്ടുള്ളതുമാകുന്നു.''',
+    'translation': '''Out of the properties partitioned as above, the properties in 'A' hedule having a share value of Rs. 1, 0500, 000/- (Rupees One Crore and Five Lakhs only) and the building situated therein having an assessed value of Rs. 10, 00, 000/-(Rupees Ten Lakhs only) and thus the properties having a total value of Rs. 11500, 000/-(Rupees One Crore Fifteen Lakhs Only) are demarcated to 3rd numbered among us, the properties in 'B' schedule, having a share value of Rs. 6565000/-(Rupees Sixty Five Lakhs sixty Five Thousand only) 1. Sarojini Amma (Sd/-) 2. Vijayalakshmi (Sd/-) 3. Raghavan (Sd/-) 8. Sreekumari (Sd/-) 4. Prakash Kumar (Sd/-) 9. Archana (Sd/-) 5. Praveen Kumar alias Unnikrishnan (Sd/-) 10. Devika alias Devi (Sd/-) are demarcated to the 9th and 10th numbered among us. the properties in 'C' schedule having a share value of Rs. 1, 91, 10, 000/-(Rupees One Crore Ninety 6. Pradeep Kumar (Sd/-) 7. Ashok Kumar (Sd/-) 7 One Lakhs and Ten Thousand only) are demarcated to the 7th numbered among us and the properties in 'D' schedule having a share value of Rs. 28, 70, 000/- (Rupees Twenty Eight Lakhs Seventy Thousand only) are demarcated to the 5th among us and thus this Partition Deed having a total market value of Rs. 4, 0045, 000/-(Rupees Four Crores Forty Five Thousand Ony), a stamp duty of Rs. 1000/- Rupees One Thousand only) is imposed taking the share value of properties in 'A', 'B' and 'D' as Rs. 20935000/- (Rupees Two Crores Ninety Three Lakhs and Thirty Five Thousand only), excluding the share value of the properties in 'C' schedule having a share value of Rs. 19110, 000/- (Rupees One Crore Ninety One Lakhs and Ten Thousand only), being the largest share.'''},
+
+    {'malayalam_sent': '''ഈ ഭാഗപത്രത്തിന്റെ അസ്സലും ഇതോടൊപ്പം രജിസ്ട്രേഷന് ഹാജരാക്കുന്ന 20-ാം നമ്പ് ചാലക്കുടി വേണ്ടർ വക 04. 10. 2014 ലെ 14049, 14050, 14053 നമ്പ് മുദ്രപത്രത്തിലും കൂട്ടിചേർത്ത വെള്ളക്കടലാസുകളിലും കൂടിയ മൂന്ന് ഇരട്ടിപ്പിലും നമ്മൾ ഒപ്പിട്ട് അസ്സൽ ഭാഗപത്രം ഡി പട്ടികവഹകളുടെ ആധാര ലക്ഷ്യമായി നമ്മളിൽ 5-ാം നമ്പുകാരൻ ഉണ്ണികൃഷ്ണൻ എന്ന് വിളിക്കുന്ന പ്രവീൺ കുമാറും 14049-ാം 1 സാജിനി മ 2. വിജയലക്ഷ്മി V 4. പ്രകാശ് കുമാർ മുദ്ര പത്രത്തിലും കൂട്ടിചേർത്ത വെള്ളകടലാസുകളിലും ഉള്ള ഇരട്ടിപ്പ് എ. പട്ടിക വഹകളുടെ ആധാരലക്ഷ്യമായി നമ്മളിൽ 3-ാം നമ്പുകാരൻ രാഘവനും 14053-ാം നമ്പ് മുദ്ര പത്രത്തിലും കൂട്ടിചേർത്ത വെള്ളകടലാസുകളിലും ഉള്ള ഇരട്ടിപ്പ് ബി പട്ടിക വഹക ളുടെ ആധാരലക്ഷ്യമായി നമ്മളിൽ 9 10 നമ്പുകാരായ അർച്ചന, ദേവി എന്ന് വിളി ക്കുന്ന ദേവിക എന്നിവർ കൂട്ടായും 14050-ാം നമ്പ് മുദ്രപത്രത്തിലും കൂട്ടിച്ചേർത്ത വെള്ള കടലാസുകളിലും ഉള്ള ഇരട്ടിപ്പ് സി. പട്ടികവഹകളുടെ ആധാരലക്ഷ്യമായി നമ്മളിൽ 7-ാം നമ്പുകാരൻ അശോക് കുമാറും അവരവരുടെ ആധാരലക്ഷ്യമായി കൈവശം എടുത്തിട്ടുള്ളതുമാകുന്നു.''',
+    'translation': '''The original of the Partition Deed and copy of the same on the stamp papers from Vendor No. 20 of Chalakudy having numbers 14049, 14050 and 14053 dated 04/10/2014 presented for registration with attached white papers in three duplicates, have been signed by us and the original Partition Deed should be kept by Praveen Kumar alias Unnikrishnan, the 5th numbered among us as the title deed of his properties in schedule 'D', duplicate copy in stamp paper No, 14049 and the attached white papers should be kept by Raghavan, the 3rd numbered among us as the title deed of his properties in Schedule 'A', duplicate copy in stamp paper No. 14053 and the attached white papers should be kept by Archana, the 9th numbered among us and Devika alias Devi, the 10th numbered among us jointly as their title deed for the properties in schedule 'B', duplicate copy in stamp paper No. 14050 and attached white papers should be kept by Ashok Kumar, the 7th numbered among us as his title deed for the properties in schedule 'C'.'''},
+
+    {'malayalam_sent': '''413/1971-ാം നമ്പ്രാധാരം സി പട്ടികവഹകളുടെ കീഴ്ക്കര ണമായി നമ്മളിൽ 7 നമ്പുകാരൻ കൈവശം വയ്ക്കേണ്ടതാണ്.''',
+    'translation': '''The title deed No. 413/1971 should be kept as the former title deed of the properties in schedule 'C' by Ashok Kumar, the 7th numbered among us'''},
+
+    {'malayalam_sent': '''മേൽപ്പറഞ്ഞ 1054 1971-ാം നമ്പ്രധാരപ്രകാരം വേറെയും വഹകൾ ഉള്ളതിനാൽ ടി ആധാരത്തിന്റെ പ്രദീപ് കുമാർ 7. അശോക് കുമാർ 8. ശ്രീകുമാരി 9. അർച്ചന അറ്റഡ് കോപ്പി നമ്മളിൽ 3 നമ്പുകാരൻ എ പട്ടികവഹകളുടെ കീഴ്ക്കരണമായും നമ്മളിൽ 9, 10 നമ്പുകാർ ബി പട്ടികവഹകളുടെ കീഴ്ക്കരണമായും സൂക്ഷിക്കേണ്ടതാ കുന്നു.''',
+    'translation': '''As there are other properties as per the Deed No. 1054/1971, the notarized copy of the same should be kept by the 3rd numbered among us as the former title deed of the properties in 'A' schedule and by 9th and 10th numbered among us as the former title deed of properties in schedule 'B'.'''},
+
+    {'malayalam_sent': '''മേൽപ്പറഞ്ഞ 904/1971-ാം നമ്പ് തീറാധാരത്തിന്റേയും 5084-ാം നമ്പ് മരണപത്രത്തി ന്റെയും അസ്സൽ 5-ാം നമ്പുകാരൻ ഡി പട്ടികവഹകളുടെ കീഴ്ക്കരണമായും നമ്മളിൽ 7 നമ്പുകാരൻ സി പട്ടിക വഹകളുടെ കീഴ്ക്കരണങ്ങളായി മേൽ നന് ആധാരങ്ങളുടെ നോട്ടറി അറ്റഡ് കോപ്പികളും സൂക്ഷിക്കേണ്ടതാകുന്നു.''',
+    'translation': '''The original of the above Sale Deed No. 904/1971 and that of the Will No. 50/84 should. be kept by the 5th numbered as the former title deed of the properties in Schedule 'D' and the Notary attested copies of the above should be kept by 7th numbered among us as the former title deed of the properties in schedule 'C'.'''},
+
+    {'malayalam_sent': '''ഫെയർ വാല ക്ലാസിഫിക്കേഷൻ പ്രകാരം ഒരു ആറിന് വാണിജ്യ പ്രാധാന്യ മുള്ള കിഴക്കെ ചാലക്കുടി വില്ലേജ് 478/3, 49/1 എന്നീ സർവ്വ സമ്പുകൾക്ക് 600000 രൂപയും മുനിസിപ്പൽ റോഡിന് സർവ്വേ 478/3-ൽ 430000 രൂപയും പഞ്ചായത്ത് റോഡിന് പരിയാരം വില്ലേജ് 394/3, 3942, 393/1 എന്നീ സർവെ നമ്പുകൾക്ക് 40000 രൂപയും വഴി യില്ലാത്ത വഹകൾക്ക് 30000 രൂപയും വില നിശ്ചയിച്ചിട്ടുള്ളതാകുന്നു.''',
+    'translation': '''As per Fair Value Classification, Rs. 6, 00, 000/-( Rupees Six Lakhs only) per Are for properties having commercial importance in Survey No. 478/3 and 492/1 in East Chalakudy Village, properties having Municipal Road in Survey No. 478/3 for Rs. 4, 30, 000/-(Rupees Four Lakhs Thirty Thousand only) per Are, for properties having Panchayath Road in Survey Nos. 394/3, 394/2, and 393/1 of Pariyaram Village for Rs. 40, 000/- (Rupees Forty Thousand only) per Are for properties without road access Rs. 30, 000/- (Rupees Thirty Thousand only) per Are is fixed as the price of the properties.'''},
+
+    {'malayalam_sent': '''സ്വസ്ഥം''',
+    'translation': '''unemployed'''},
+
+    {'malayalam_sent': '''ബെൻ പേർക്ക് എഴുതിക്കൊടുത്ത സെറ്റിൽമെന്റാധാരം.''',
+    'translation': '''Settlement deed executed in favor of Ben'''},
+
+    {'malayalam_sent': '''താഴെ പട്ടികയിൽ വിശദമായി വിവരിച്ചു ഈ ആധാരപ്രകാരം താങ്കൾക്കു വിലയ്ക്ക് തരുന്നതുൾപ്പെടെയുള്ള വസ്തുവകകൾ''',
+    'translation': '''Properties detailed in the table below, which includes properties being sold to you by this sale deed'''},
+
+    {'malayalam_sent': '''എന്റെ പിതാമഹൻ പരേതനായ പഴയപുരയ്ക്കൽ താഴത്ത് വർക്കി അവർകൾക്ക് 1110-ൽ ഏറ്റുമാനൂർ രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 13-ാം വാല്യം 35 മുതൽ 39വരെ വശങ്ങളിൽ 1093-ാം നമ്പരായി രജിസ്റ്റർ ചെയ്യിച്ചിട്ടുള്ള ഭാഗഉടമ്പടി പ്രകാരം രണ്ടാം ഭാഗമായി സിദ്ധിച്ച വസ്തുവകകൾ''',
+    'translation': '''Properties received by my great grandfather, late Mr Pazhayapurakkal Thazhathu Varkey based on partition deed registered as Number 1093, in Ettumanoor register, First Book, 13th volume from page 35 to 39, in the year 1110'''},
+
+    {'malayalam_sent': '''അദ്ദേഹത്തിന്റേയും അദ്ദേഹത്തിന്റെ ഭാര്യയും എന്റെ പിതാമഹിയുടേയും മരണാനന്തരം പിൻതുടർച്ചാവകാശവഴി അദ്ദേഹത്തിന്റെ സന്താനങ്ങളും അവകാശികളുമാ യിരുന്ന എന്റെ പിതാവ് ദേവസ്യ അവർകൾക്കും അദ്ദേഹത്തിന്റെ സഹോദരൻ അവുസേപ്പ് അവർകൾക്കുമായി കൂട്ടവകാശപ്പെട്ട് സിദ്ധിച്ച വസ്തു ക്കൾ''',
+    'translation': '''Properties my grand parents bequeathed on their demise, jointly to my father, Mr Devassia and his brother, Mr Auseph'''},
+
+    {'malayalam_sent': '''മേൽപറഞ്ഞ ദേവസ്യ അവർകളും അവുസേപ്പ് അവർകളും ചേർന്ന് 1978-ൽ ടി രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 337-ാം വാല്യം 137 മുതൽ 14 വരെ വശങ്ങളിൽ 4091-ാം നമ്പരായി രജിസ്റ്റർ ചെയ്യിച്ചിട്ടുള്ള ഭാഗഉടമ്പടി പ്രകാരം ബി. പട്ടികയായി ഇതിൽ വിവരിക്കുന്നതുൾപ്പെടെയുള്ള വസ്തുവകകൾ എന്റെ പിതാവ് മേൽപറഞ്ഞ ദേവസ്യ അവർകളുടെ വീതത്തിന് തിരിച്ചു കിട്ടി അദ്ദേഹം കൈവശം വച്ച് അനുഭവിച്ചു വന്നിരുന്നതും''',
+    'translation': '''Properties detailed in the B. Table, was received and was being enjoyed by the aforesaid Mr Devassia, who is my father, based on a partition deed registered by the aforesaid Mr Devassia nd Mr Avuseph in 1978 in the aforesaid register, First Book, 337th volume from pages from 137 to 14...'''},
+
+    {'malayalam_sent': '''അദ്ദേഹത്തിന്റേയും അദ്ദേഹത്തിന്റെ ഭാര്യയും എന്റെ മാതാവുമായിരുന്ന ചിന്ന അവർകളുടേയും മരണാനന്തരം പിൻതുടർച്ചാവകാശ വഴി ടി പേരൂകാരുടെ സന്താനങ്ങളായ എനിക്കും എന്റെ സഹോദരിമാരായ മേരിക്കുട്ടി ജോസഫ്, ആൻസമ്മ ദേവസ്യ എന്ന ആഗ്നസ് ദേവസ്യ, ഡെൽഫീനാമ്മ സെബാസ്റ്റ്യൻ എന്നിവർക്കും കൂടി കൂട്ടവകാശപ്പെട്ട് സിദ്ധിച്ച് കൂട്ടായി കൈവശം വച്ച് അനുഭവിച്ചു വരവെ''',
+    'translation': '''Following the passing of both my father and my mother, Mrs. Chinna, my sisters—Marykutty Joseph, Ansamma Devssia (also known as Agnus Devassia), and Delphinamma Sebastian—inherited the property, which we have been jointly enjoying the benefits of ever since.'''},
+
+    {'malayalam_sent': '''പട്ടിക വസ്തുക്കൾ ഞാനും മേൽ പറഞ്ഞ പേരുകാരും ചേർന്ന് 2000-ൽ ടി രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 1150-ാം വാല്യം 30 മുതൽ 310 വരെ വശങ്ങളിൽ 3125-ാം നമ്പരായി രജിസ്റ്റർ ചെയ്യിച്ചിട്ടുള്ള ഭാഗഉടമ്പടി പ്രകാരം എ. പട്ടികയായി ഇതിൽ വിവരിക്കുന്നതുൾപ്പെ ടെ യുള്ള വസ്തു വകകൾ എനിക്ക് സിദ്ധിച്ചതും''',
+    'translation': '''I have received the property including the properties described in table A, based on a partition deed registered by me and the aforesasid persons, in 2000 in the aforesaid register, first book, 1150th volume, from pages 30 to 310'''},
+
+    {'malayalam_sent': '''എന്നാൽ എന്റെ 'പിതാവ് ദേവസ്യ അവർകളും അദ്ദേഹത്തിന്റെ സഹോദരൻ അവുസേപ്പ് അവർകളും ചേർന്ന് 1978-ൽ 4091-ാം നമ്പരായി ഭാഗഉടമ്പടി രജിസ്റ്റർ ചെയ്ത അവസരത്തിൽ ടി പേരുകാരുടെ സഹോദരിമാരും എന്റെ പിതൃസഹോദരിമാരുമായിരുന്ന ഏലി, റോസ, മറിയം, അന്നമ്മ എന്നിവർക്ക് വസ്തുക്കളിൽ അവകാശം ഇല്ലാതിരുന്നതിനാൽ മേൽ പറഞ്ഞ ഏലി, റോസ, മറിയം, അന്നമ്മ എന്നിവർ ടി ഭാഗഉടമ്പടിയിൽ കക്ഷി ചേർന്നിട്ടി ലാത്തതും''',
+    'translation': '''But when my father Mr Devassia and his brother Mr Auseph registered the partition deed in 1978 as Number 4091, their sisters (my aunts)- Eli, Rosa, Mariam, Annamma- were not party to the deed, since they did not have a right on the property'''},
+
+    {'malayalam_sent': '''എന്നാൽ ബഹു. സുപ്രീംകോടതി വിധിയുടെ അടിസ്ഥാനത്തിൽ ക്രിസ്ത്യൻ പിൻതുടർച്ചാനിയമപ്രകാരം മേൽപറഞ്ഞ പേരുകാർക്ക് പട്ടികവ സ്തുക്കളിൽ അവകാശം സിദ്ധിച്ചിട്ടുള്ളതും''',
+    'translation': '''But based on the decision of the Supreme Court, under the Christian Inheritance law, the aforesaid persons have gained rights on the properties listed in the table'''},
+
+    {'malayalam_sent': '''അതിൽ മേൽ പറഞ്ഞ അന്നമ്മ അവിവാഹിതയും സന്താനരഹിതയുമായി നിര്യാതയായിട്ടുള്ളതനുസരിച്ച് പട്ടികവസ്തുക്കളിൽ മേൽ പറഞ്ഞ അന്നമ്മയ്ക്കുണ്ടായിരുന്ന ഊ കൂറ് അവകാശം എനിക്കും മേൽപറഞ്ഞ ഏലി, റോസ, മറിയം എന്നീ വർക്കും കൂടി കൂട്ടവകാശപ്പെട്ട് സിദ്ധിച്ചതനുസരിച്ച്''',
+    'translation': '''Among those mentioned, Annamma remained unmarried and without children. Upon her passing, with no heirs, I, along with Eli, Rosa, and Mariam, collectively inherited her rights to the property outlined in the table.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുക്കളിൽ മേൽപറഞ്ഞ ഏലി അവർകൾക്കുണ്ടാ യിരുന്ന ഊടുകൂറ് അവകാശം മേൽപറഞ്ഞ ഏലി അവർകളുടേയും ടിയാ ളുടെ ഭർത്താവ് സ്കറിയ അവർകളുടേയും മരണാനന്തരം പിൻതുടർച്ചാ വകാശവഴി ടി പേരുകാരുടെ സന്താനങ്ങളായ മാത്യു പി.എസ്, രാജു, പെണ്ണമ്മ, ലീലാമ്മ എന്നിവർക്ക് സിദ്ധിച്ചിട്ടുള്ളതും''',
+    'translation': '''The property rights of Mrs. Eli, pertaining to the assets detailed in the table, were collectively inherited by their children – Mathew P.S, Raju, Pennamma, and Leelamma – following the passing of both her and her husband, Mr. Skaria.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുക്കളിൽ  മേൽപറഞ്ഞ റോസ് അവർകൾക്കുണ്ടായിരുന്ന ഊടു കൂറ് അവകാശം ടിയാളുടേയും ടിയാളുടെ ഭർത്താവ് ജേക്കബിന്റേയും നന്തരം പിൻതുടർച്ചാവകാശവഴി ടി പേരുകാരുടെ സന്താനങ്ങളായ മോളി ക്കുട്ടി സെബാസ്റ്റ്യൻ, സിസ്റ്റർ സബീന എന്നിവർക്ക് സിദ്ധിച്ചിട്ടുള്ളതും''',
+    'translation': '''The property rights of Mrs Rose, pertaining to the assets detailed in the table, were collectivley inherited by their children - Molikutty Sebastian, Sister Sabeena - following the passing of both her and her husband, Jacob'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുക്കളിൽ മേൽപറഞ്ഞ മറിയം അവർകൾക്കുണ്ടായിരുന്ന ഊടു കൂറ് അവകാശം ടിയാളുടേയും ടിയാളുടെ ഭർത്താവ് മാത്യു അവർക ളുടേയും മരണാനന്തരം പിൻതുടർച്ചാവകാശവഴി ടി പേരുകാരുടെ സന്താ നങ്ങളായ ജോയി മാത്യു, ഷാജി മാത്യു, ടോമി മാത്യു, സൂസമ്മ, എൽസമ്മ,ഫിലോമിന, ഡോളി മാത്യു, ലില്ലിക്കുട്ടി, റോസമ്മ പീറ്റർ എന്നി വർക്കും കൂടി കൂട്ടവകാശപ്പെട്ട് സിദ്ധിച്ചിട്ടുള്ളതും''',
+    'translation': '''The property rights of Mrs Mariam, pertaining to the assets detailed in the table, were collectivley inherited by their children - Joy Mathew, Shaji Mathew, Tomi Mathew, Susamma, Elsamma, Filomina, Doli Mathew, Lillikutty, Rosamma Peter - following the passing of both her and her husband, Mr Mathew'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തു ക്കൾ ഞാനും മേൽപറഞ്ഞ പേരുകാരും ചേർന്ന് കൂട്ടായി കൈവശം വച്ച് അനുഭവിച്ചു വരവെ പട്ടികവസ്തുക്കളിൽ മേൽ പറഞ്ഞ പേരുകാരായ മാത്യു പി.എസ്, രാജു, പെണ്ണമ്മ, ലീലാമ്മ, മോളിക്കുട്ടി സെബാസ്റ്റ്യൻ, സിസ്റ്റർ സബീന, ജോയി മാത്യു, ഷാജി മാത്യു, ടോമി മാത്യു, സൂസമ്മ, എൽസമ്മ,ഫിലോമിന, ഡോളി മാത്യു, ലില്ലിക്കുട്ടി, റോസമ്മ പീറ്റർ എന്നി വർക്ക് പട്ടികവസ്തുക്കളിൽ ഉണ്ടായിരുന്ന ഊടുകൂറ് അവകാശം ഒഴിപ്പിച്ച് ടി പേരുകാരോട് ഞാൻ 2012-ൽ ടി രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 1806-ാം വാല്യം 107മുതൽ 116വരെ വശങ്ങളിൽ 2255-ാം നമ്പരായി കൂട്ടവകാശഴി വുകുറി രജിസ്റ്റർ ചെയ്തു വാങ്ങിയിട്ടുള്ളതും''',
+    'translation': '''While the individuals mentioned earlier and I have collectively possessed and enjoyed the property detailed in the table, I registered a document as Number 2255 in the year 2012 within the aforementioned registry's first book, spanning the 1806th volume and encompassing pages 107 to 116. This registration involved the acquisition of the rights previously held by the individuals mentioned: Mathew P.S, Raju, Pennamma, Leelamma, Molikutty Sebastian, Sister Sabeena, Joy Mathew, Shaji Mathew, Tomy Mathew, Susamma, Elsamma, Filomena, Doli Mathey, Lillikutty, and Rosamma Peter.'''},
+
+    {'malayalam_sent': '''ഇതിൽ വിവരി ക്കുന്നതുൾപ്പെടെയുള്ള വസ്തുവകകൾ എനിക്ക് പൂർണ്ണാവകാശപ്പെട്ടതും ഞാൻ കൈവശം വച്ചും അതിരമ്പുഴ വില്ലേജ് വക 28/9191-ാം നമ്പർ തണ്ടപ്പേരും പടി കരം തീർത്തും ക്രയവിക്രയാദി സർവ്വസ്വാതന്ത്ര്യാവകാശ സഹിതം നിരാക്ഷേപം അടക്കി അനുഭവിച്ചു വരുന്നതും ഏതുവിധമായ കരണങ്ങൾ ചെയ്യുന്നതിനും കൈമാറ്റം ചെയ്യുന്നതിനും എനിക്കു പൂർണ്ണ അധികാരവും അർഹതയും ഉള്ളതുമാകുന്നു.''',
+    'translation': '''I fully own and posess the properties including those described herein. I pay tax on the property at Athirampuzha Village as 'Thandapper' 28/9191. I have full rights to enjoy all the benefits from the property including the right to sell the property.'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരമുള്ള താഴെപ ട്ടികയിൽ വിവരിക്കുന്ന വസ്തുവകകൾ എന്റെ കുടുംബാവശ്യം വയ്ക്കായി വിലയ്ക്ക് തരുന്നതിനു തീരുമാനിച്ചിരിക്കുന്നു''',
+    'translation': '''I have decided to sell the properties described above, as detailed in the table below, for meeting the needs of my family.'''},
+
+    {'malayalam_sent': '''മേൽപറഞ്ഞ പ്രകാരമുള്ള താഴെ പട്ടികയിൽ വിവരിക്കുന്ന 81സെന്റും 375 ലിംഗ്സ് (32ആർ 93 ച.മീറ്റർ) സ്ഥലത്തിന്റെ വടക്കുവശ മുള്ള ഏറ്റുമാനൂർ നീണ്ടൂർ റോഡിൽ നിന്നും ടി സ്ഥലത്തിന്റെ കിഴക്കതിരിൽ കൂടി തെക്കോട്ട് പതിനൊന്നടി വീതിലുള്ള വഴി സ്ഥലം ഓണന്തുരുത്ത് കരയിൽ കൊച്ചു പുളിക്കൽ മാർട്ടിൻ കെ.ജോസ് എന്ന മാർട്ടിൻ കെ ജോസഫിന് വാഹന ഗതാഗതം ഉൾപ്പെടെയുള്ള ഗതാഗതാവശ്യങ്ങൾക്ക് ഉപയോഗിക്കുന്നതിനും ടി വഴിയിൽ കൂടി ഇലക്ട്രിക് ലൈൻ, ടെലഫോൺ ലൈൻ, കേബിൾ ലൈൻ, വാട്ടർ ലൈൻ എന്നിവ എടുക്കുന്നതിനുള്ള അവ കാശവും ടിയാനിൽ നിലനിർത്തി മേൽ പറഞ്ഞ പതിനൊന്നടി വീതിയി ലുള്ള വഴിസ്ഥലം ഉൾപ്പെടെയുള്ള 81സെന്റും 375 ലിംഗ്സ് (32ആർ 93 മീറ്റർ സ്ഥലത്തിന് ഉഭയസമ്മതപ്രകാരം മുപ്പത്തിരണ്ടുലക്ഷത്തി അറുപതിനായിരം (32,60,000) രൂപാ വില നിശ്ചയിച്ചും സമ്മതിച്ചും ഇതിനാൽ എന്റെ സമസ്താവകാ ശങ്ങളും കൈവശവും പരിഛേദം വിട്ടൊഴിഞ്ഞ് താങ്കൾക്കു നാളിതു തീറാകെ എഴുതി കൈവശപ്പെടുത്തി തന്ന് തീർത്ഥം താങ്കൾ എനിക്കു തന്ന പ്രകാരം ഞാൻ ഇ ദിവസം രൊക്കം പറ്റി പ്രതിഫലം ബോദ്ധ്യപ്പെട്ട് രൂപാ 32,60,000''',
+    'translation': '''Kochu pulikkal Martin K. Jose,  Onanthuruthu Kara, also known as Martin K Joseph has been granted right to vehicular movement and to lay electric line, telephone line, cable line, and water line, on an 11 feet wide land parcel on the eastern border, from Ettumanoor- Neendur Road, towards south, of the property described above, as detailed in the table below. I have received Rupees 32,60,000 towards the properties detailed the table below extending to 81 cents and 375 links (32 are, 93 sq.meter) which includes the land parcel on which the aforesaid Martin K Joseph holds aforesaid rights, and I hereby relinquish all my rights on the property in your favor.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുവകകളിൽ സ്ഥാപിച്ചു മേലിൽ എനിക്കോ എന്റെ  അനന്തരാവകാശികൾക്കോ എന്റെ പേരിൽ മറ്റാർക്കും തന്നെയോ യാതൊരുവിധ അധികാരാവകാശങ്ങളും ബാദ്ധ്യതകളും ഉണ്ടായിരിക്കു ന്നതല്ല''',
+    'translation': '''In the future, neither my descendants, nor my agents, nor I will have any rights or liabilities related to the properties listed in the table.'''},
+
+    {'malayalam_sent': '''ഈ ആധാരപ്രകാരം പട്ടികവസ്തുവകകൾ താങ്കൾ ഇന്നു മുതൽ പൂർണ്ണ ഉടമസ്ഥനായി കൈവശം വച്ചു പോക്കുവരവു ചെയ്തു പുതിയ തണ്ടപ്പേരു പിടിച്ചും കരം തീർത്തു ക്രയവിക്രയാദി സർവ്വ ന്നതിനു ഞാൻ ഇതിനാൽ പൂർണ്ണമായി സമ്മതിച്ചിരിക്കുന്നു''',
+    'translation': '''As per this deed, I fully agree that you are the sole owner of the properties detailed in the table and that you may take possession of the property, do 'pokkuvarau', pay taxes under a new 'thandapper' and make any transaction as you deem fit.'''},
+
+    {'malayalam_sent': '''പട്ടികയിൽ വിവരിക്കുന്ന വസ്തു യാതൊരു വിധമായ അന്യാധീനങ്ങളിലും അർത്ഥ ബാദ്ധ്യതകളിലും കോർട്ടു ജപ്തി, ജാമ്യം, പണയം, സഹകരണ സംഘങ്ങ ളിലുള്ള ബാദ്ധ്യതകൾ മുതലായ തടങ്കലുകളിലും റവന്യൂ റിക്കവറി, ലാൻഡ് അസൈൻമെന്റ്, ലാൻഡ് അക്വിസിഷൻ തുടങ്ങിയ നടപടിക ളിലും വസ്തു വിൽപ്പന കരാറുകളിലും ഉൾപ്പെടുകയോ ഉൾപ്പെടുത്തുകയോ ചെയ്തിട്ടില്ലാത്തതും പട്ടികവസ്തു വിൽപ്പന നടത്തുന്നതിനും പ്രതിഫലം പറ്റി ഹിതാനുസരണം വിനിയോഗിക്കുന്നതിനും എനിക്കു പൂർണ്ണസ്വാതന്ത്ര്യവും അധികാരവും അവകാശവും ഉള്ളതും അതിനെ ചോദ്യം ചെയ്യുന്നതിനോ തടസ്സപ്പെടുത്തുന്നതിനോ മറ്റാർക്കും തന്നെ യാതൊരുവിധ അധികാരവും അവകാശവും അർഹതയും ഇല്ലാത്തതുമാ കുന്നു''',
+    'translation': '''Property detailed in the table is not subject to any encumbrance, liability, court auction, security, mortgage, liability to cooperative organizations, revenue recovery, land assessment, land acquisition or agreement to sale, and I have complete right to sell the same and enjoy the compensation received as per my decision and no one has the right to question me or obstruct me in that.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തു സർക്കാർ പുറം പോക്കിലോ നിക്ഷിപ്ത വനഭൂമിയിലോ പരിസ്ഥിതിക ദുർബലപ്രദേശത്തോ മിച്ചഭൂമിയിലോ പട്ടികജാതി പട്ടികവർഗ്ഗക്കാർക്കു പതിച്ചു പട്ടയം കൊടുത്ത വസ്തുവിലോ ഉൾപ്പെട്ടതല്ല''',
+    'translation': '''Property detailed in the table, is not included in governmnet 'porambokku', notified forest land, environmentally sensitive area, excess land, or land allotted under 'Patta' to the scheduled caste or scheduled tribe persons.'''},
+
+    {'malayalam_sent': '''കേരളാ ഭൂപരിഷ്കരണ നിയമവ്യവസ്ഥാനുസരണം കൈവശം വയ്ക്കാവുന്ന പരിധിയിൽ കവിഞ്ഞ ഭൂമി പട്ടികവസ്തു ഉൾപ്പെടെ എന്റെ കൈവശത്തിലോ ഉടമസ്ഥതയിലോ ഇല്ല''',
+    'translation': '''I do not own or possess any land, including the land specified in the table, that exceeds the limit allowed by the Kerala Land Reforms Act.'''},
+
+    {'malayalam_sent': '''പട്ടികസ്ഥലം ലാൻഡ് സീലിംഗ് കേസുകളിൽ ഒന്നും തന്നെ ഉൾപ്പെട്ടിട്ടില്ല''',
+    'translation': '''The land specified in the table is not involved in any land land cieling case. '''},
+
+    {'malayalam_sent': '''ഈ വിവരങ്ങളെല്ലാം ശരിയും സത്യവുമാകുന്നു''',
+    'translation': '''All these information are correct and true'''},
+
+    {'malayalam_sent': '''അപ്രകാരം ശരിയും സത്യവുമെന്നു താങ്കളെ വാക്കാൽ പറഞ്ഞു വിശ്വസിപ്പിച്ചിട്ടുള്ളതുമാകുന്നു.''',
+    'translation': '''Thus, I have orally informed you and successfully persuaded you of its accuracy and authenticity.'''},
+
+    {'malayalam_sent': '''മേൽവിവരപ്രകാരമുള്ള താഴെ പട്ടികയിൽ വിവരിക്കുന്ന വസ്തുവകകളിൽ എനിക്കുള്ള ഉടമസ്ഥാവകാശം, കൈവശം, ഈസ് മെന്റ് മുതലായ സകലവിധ അവകാശങ്ങളും ഇതിനാൽ ഒഴിഞ്ഞു ഈ ആധാരത്താൽ താങ്കളുടെ പേർക്കു വിലയായി എഴുതി തന്നിരിക്കുന്നു''',
+    'translation': '''According to this sales agreement, I have surrendered all my rights to the property mentioned above and detailed in the table below, including ownership, possession, easements, and others, in your favor in exchange for the sale proceeds received.'''},
+
+    {'malayalam_sent': '''ഈ ആധാരപ്രകാരം വിലയ്ക്ക് തരുന്ന നീണ്ടൂർ പഞ്ചായത്ത് അതിർത്തിയിൽ പെട്ട പട്ടികവസ്തുവകകളുടെ പ്രതിഫലസംഖ്യയായ മുപ്പത്തിരണ്ടുലക്ഷത്തി അറുപതിനായിരം (32,60,000) രൂപായ്ക്ക് ഒരു ലക്ഷത്തി അറുപത്തിമൂവായിരത്തിഒരുനൂറ് (1,63,100) രൂപാ മുദ്രവില ചുമത്തിയിട്ടു ള്ളതാകുന്നു.''',
+    'translation': '''A stamp duty of Rs 1,63,100 has been paid for the sale of the property described in the table, located within Neendur Panchayat, under this sale deed, at a total price of Rs 32,60,000.'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരമെല്ലാം താങ്കളെ പറഞ്ഞു ഉത്തമ വിശ്വാസപ്പെടു ത്തിയിട്ടുള്ളതിനു വിപരീതമായോ മറ്റേതെങ്കിലും തരത്തിലോ ഈ ആധാരം മുഖേന വിലയ്ക്ക് തരുന്ന പട്ടികവസ്തു സംബന്ധമായി താങ്കൾക്കു വല്ല ദോഷനഷ്ടങ്ങൾക്കും ഇടവരുന്നതായാൽ ആ വിധമുണ്ടാകുന്ന സകല നഷ്ടങ്ങൾക്കും ബാദ്ധ്യതകൾക്കും ഞാനും എനിക്കവകാശപ്പെട്ട സ്ഥാവരജംഗമസ്വത്തുക്കളും സഹിതം നഷ്ടാത്തര വാദം ചെയ്ത നഷ്ടം പരിഹരിച്ചു തന്നുകൊള്ളാമെന്നും അപ്രകാരം നഷ്ടപരിഹാരം നേടിക്കൊള്ളുന്നതിനു എതിരേ യാതൊരുവിധ ആക്ഷേപ ങ്ങളും തർക്കങ്ങളും ഞാൻ പുറപ്പെടുവിക്കുന്നതല്ലെന്നും ഇതിനാൽ പൂർണ്ണമായി സമ്മതിച്ചിരിക്കുന്നു''',
+    'translation': '''As mentioned above, if you suffer any damages in relation to the properties listed in the table and sold to you as per this sale deed, contrary to the assurances to you, I hereby commit to fully compensate you for any such losses incurred and I agree to utilize all of my assets to cover these losses, and I fully agree that I will not contest or object to the recovery of such losses from my assets or from me personally.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുക്കളുടെ മുന്നാധാരങ്ങളും കരം തീർത്ത രസീതും ഇതുസഹിതം തന്നിരിക്കുന്നു''',
+    'translation': '''The prior sale deeds and the tax receipts in respect of the properties detailed in the table are hereby handed over. '''},
+
+    {'malayalam_sent': '''ടി''',
+    'translation': '''aforementioned'''},
+
+    {'malayalam_sent': '''ഗോപാലൻ പേർക്ക് ടി കരയിൽ വേലിയ്ക്കകത്ത് വീട്ടിൽ വർഗീസ്സ് മകൻ സ്വസ്ഥം എൺപത്തിഒന്ന് വയസുള്ള ജോസഫ് എഴുതിക്കൊടുത്ത തീറാധാരം''',
+    'translation': '''Sale deed executed by Joseph, aged 81, son of Varghese, residing at Velikkakath Veedu of the aforesaid Kara in favor of Gopalan'''},
+	
+	{'malayalam_sent': '''നത്തുകലല് കരയിൽ വേലിയ്ക്കകത്ത് വീട്ടിൽ മാത്യു മകൻ ടോണി മാത്യു പേർക്ക് ടി കരയിൽ വേലിയ്ക്കകത്ത് വീട്ടിൽ ദേവസ്യാ മകൻ ആഗസ്തി എഴുതിക്കൊടുത്ത തീറാധാരം''',
+    'translation': '''Sale deed executed by Augusti, son of Devasya, residing at Velikkakath Veedu of the Nathukallu Kara, in favor of Tony Mathew, aged 19, son of Mathew, residing at Velikkakath Veedu of the aforesaid Kara.'''},
+
+    {'malayalam_sent': '''പട്ടികവസ്തുവകകൾക്ക് നമ്മുടെ പരസ്പര സമ്മതപ്രകാരം തീറുവില നിശ്ചയിച്ച രൂപ 90, 000 ടി രൂപാ തൊണ്ണൂറായിരവും നാളിത് നിങ്ങൾ വശം ഞാൻ രൊക്കം പറ്റി ബോദ്ധ്യപ്പെട്ടിരിക്കയാൽ പട്ടികവസ്തുവകകൾ ഇന്നു മുതൽ നിങ്ങൾ കൈവശം വച്ചും കരം നിങ്ങളുടെ പേരിൽ കൂട്ടി തീർത്തും ക്രയവിക്രയ സർവ്വസ്വാതന്ത്ര്യമായി എന്നാളും തീറായി അനുഭവിച്ചുകൊളളുന്നതിന് ഞാൻ ഇതിനാൽ പൂർണ്ണമായി സമ്മതിച്ചിരിക്കുന്നു.''',
+    'translation': '''According to our mutual agreement, the schedule properties are sold to you for a fixed price of 90,000 rupees, which you have paid in full. I fully agree that today onwards, you have full ownership of these properties, and you can pay taxes in your name, sell, and enjoy complete freedom with these properties.'''},
+
+    {'malayalam_sent': '''പട്ടിക വസ്തുവിൽ സ്ഥാപിച്ച് യാതൊരുവിധ കടബാദ്ധ്യതകളും ജപ്തി, ജാമ്യം മുതലായ കോർട്ട് തടങ്കലുകളും ഞാൻ അല്ലാതെ മറ്റുവകാശികളും അവകാശന്യുനതയും ഇല്ലന്നും പട്ടികവസ്തു നിക്ഷിപ്തവനഭൂമിയിലോ പട്ടികവർഗ്ഗസെറ്റിൽമെന്റിലോ പെട്ടതല്ലന്നും കേരള ഭൂപരിഷ്കരണ നിയമമനുസരിച്ച് പരിധിയിൽ കവിഞ്ഞഭൂമി ഇല്ലന്നും മിച്ചഭൂമി സംബന്ധമായി കേസ്സുകൾ ഒന്നും നിലവിൽ ഇല്ലന്നും ഞാൻ നിങ്ങളെ ഇതിനാൽ ഉറപ്പായി പറഞ്ഞു വിശ്വസിപ്പിച്ചിരിക്കുന്നു.''',
+    'translation': '''I assure you that there are no debts, court seizures, or other legal issues associated with the schedule properties. I assure you that apart from me no other person has any claim or right to these properties. I assure you that the properties are not listed as excess land under the Kerala Land Reforms Act, nor are they involved in any cases related to excess land.'''},
+
+    {'malayalam_sent': '''അതിനു വിപരീതമായോ മറ്റു വിധേനയോ ഈ തീറാധാരപ്രകാരം നിങ്ങൾക്കും സിദ്ധിച്ചിട്ടുള്ള അവകാശത്തിനോ കൈവശത്തിനോ എന്തെങ്കിലും ന്യൂനത നേരിട്ട് നിങ്ങൾക്ക് വല്ല മുതൽ നഷ്ടത്തിനോ കഷ്ടനഷ്ടത്തിനോ ഇടയാകുന്നതായാൽ ആയതിലേക്ക് ഞാനും എന്റെ വക ഇതര സ്ഥാവരജംഗമ സ്വത്തുക്കളും നിങ്ങളോട് എക്കാലവും എല്ലാപ്രകാരേണയും നഷ്ടടോത്തരവാദിത്വം ചെയ്തുകൊള്ളാമെന്നും ഞാൻ ഇതിനാൽ പൂർണ്ണാമയി സമ്മതിച്ചിരിക്കുന്നു.''',
+    'translation': '''I fully agree that, if contrary to this, you suffer any loss or hardship due to the rights or possession granted to you under this deed, I and my other immovable and movable properties will fully compensate you for all such losses in every possible way.'''},
+
+    {'malayalam_sent': '''അടിയിൽ പട്ടികയിൽ വിവരിക്കുന്ന 30 ആർ 68 ചഃമീറ്റർ വസ്തുവകകൾ ഞാൻ സർക്കാർ വക തരിശുഭൂമി കൈവശപ്പെടുത്തി എടുത്ത് അനുഭവിച്ചുവരവെ നെടുംകണ്ടം ലാന്റ് അസൈൻമെന്റ് സ്പെഷ്യൽ തഹസീൽദാർ ആഫീസിൽ നിന്നും എൽ. എ 374/70-ാം നമ്പരായി കേസ്എഴുത്ത് ടി ആഫീസിൽ നിന്നും 20. 9. 1971ൽ എന്റെ പേരിൽ സ്ഥിരപട്ടയംകിട്ടിയതും മേൽനമ്പർ പട്ടയപ്രകാരമുള്ള വസ്തുക്കൾ എനിക്കുവേണ്ടി എന്റെ മുക്ത്യാറുകാരൻ മാത്യു അഗസ്റ്റിൻ നത്തുകല്ല് കരയിൽ വേലിയ്ക്കകത്ത് വീട്ടിൽ മാതൃ ഭാര്യ മാളിമാത്യുവിന്റെ പേരിൽ 2003ൽ കട്ടപ്പന സബ്ബ് രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 757-ാംവാല്യം 23മുതൽ 26വരെ വശങ്ങളിൽ 274-ാംനമ്പരായി ഒരുതീറാധാരം രജിസ്റ്റർ ചെയ്തുകൊടുത്തിരുന്നതും 21. 8. 04ൽ ബഹുമാനപ്പെട്ട കട്ടപ്പനസബ്ബ് കോടതിയുടെ ഒ.എസ്. 51/03-ാം നമ്പർ കേസിന്റെവിധിയും ടി വിധിക്ക് ബഹുമാനപ്പെട്ട തൊടുപുഴ ജില്ലാകോടതിയുടെ 31.01.2006-ാം തീയതിയിലെ അപ്പീൽ വിധി പ്രകാരം ടി 274/2003-ാംനമ്പർ ആധാരം റദ്ദ് ചെയ്തിട്ടുള്ളതും വസ്തു വകകൾ ഞാൻ തന്നെ കൈവശം വച്ചും കട്ടപ്പന വില്ലേജിലെ 1004/61-ാംനമ്പർ റീസർവ്വെതണ്ടപ്പേരുപടി കരംതീർത്തും നിരാക്ഷേപം അനുഭവിച്ചുവരുന്ന 59ആറിൽ ഉൾപ്പെട്ടതുമാകുന്നു.''',
+    'translation': '''The 30 ares and 68 sq meter(s) of schedule land'''},
+
+    {'malayalam_sent': '''അടിയിൽ പട്ടികയിൽ വിവരിക്കുന്ന 30 ആർ 68 ചഃമീറ്റർ വസ്തുവകകൾ ഞാൻ സർക്കാർ വക തരിശുഭൂമി കൈവശപ്പെടുത്തി എടുത്ത് അനുഭവിച്ചുവരവെ''',
+    'translation': '''While I was enjoying the barren land, as described in the schedule below, measuring 30 ares and 68 sq meters, which I had acquired from the government'''},
+
+    {'malayalam_sent': '''നെടുംകണ്ടം ലാന്റ് അസൈൻമെന്റ് സ്പെഷ്യൽ തഹസീൽദാർ ആഫീസിൽ നിന്നും എൽ. എ 374/70-ാം നമ്പരായി കേസ്എടുത്ത് ടി ആഫീസിൽ നിന്നും 20. 9. 1971ൽ എന്റെ പേരിൽ സ്ഥിരപട്ടയം കിട്ടി''',
+    'translation': '''I obtained the permanent title deed on 20.9.1971, based on case number L.A 374/70 of the office of Nedunkandam Land Assignment Special Tahsildar.'''},
+    
+    {'malayalam_sent': '''മേൽനമ്പർ പട്ടയപ്രകാരമുള്ള വസ്തുക്കൾ എനിക്കുവേണ്ടി എന്റെ മുക്ത്യാറുകാരൻ മാത്യു അഗസ്റ്റിൻ നത്തുകല്ല് കരയിൽ വേലിയ്ക്കകത്ത് വീട്ടിൽ മാത്യു ഭാര്യ മോളിമാത്യുവിന്റെ പേരിൽ 2003ൽ കട്ടപ്പന സബ്ബ് രജിസ്റ്ററിൽ ഒന്നാം പുസ്തകം 757-ാംവാല്യം 23മുതൽ 26വരെ വശങ്ങളിൽ 274-ാംനമ്പരായി ഒരുതീറാധാരം രജിസ്റ്റർ ചെയ്തുകൊടുത്തിരുന്നു.''',
+    'translation': '''In 2003, at the Kattappana Sub Register, in the 757th Volume of the first book, my agent, Mathew Augustine, executed Sale Deed Number 274 on my behalf, transferring ownership to Molly Mathew, wife of Mathew, residing at Velikkakthu Veedu, Nathukallu Kara. This transaction is documented on Pages 23 to 26 of the register.'''},
+
+    {'malayalam_sent': '''21. 8. 04 ൽ ബഹുമാനപ്പെട്ട കട്ടപ്പനസബ്ബ് കോടതിയുടെ ഒ.എസ്. 51/03-ാം നമ്പർ കേസിന്റെ വിധിയും ടി വിധിക്ക് ബഹുമാനപ്പെട്ട തൊടുപുഴ ജില്ലാകോടതിയുടെ 31.01.2006-ാം തീയതിയിലെ അപ്പീൽ വിധി പ്രകാരം ടി 274/2003-ാംനമ്പർ ആധാരം റദ്ദ് ചെയ്തിട്ടുണ്ട്. ''',
+    'translation': '''In accordance with the verdict of the respected Kattappana Sub Court's O.S. 51/03 case on 21.8.04 and the appeal verdict of the respected Thodupuzha District Court on 31.01.2006 the above said sale deed numbered 274/2003 has been invalidated.'''},
+
+    {'malayalam_sent': '''മുക്ത്യാർ''',
+    'translation': '''Power of Attorney'''},
+
+    {'malayalam_sent': '''മുക്ത്യാർ നാമം''',
+    'translation': '''Deed of Power of Attorney'''},
+
+    {'malayalam_sent': '''ഗോവിന്ദൻ സ്വസ്ഥം''',
+    'translation': '''Govindan, unemployed'''},
+
+    {'malayalam_sent': '''ലക്ഷ്മി സ്വസ്ഥം''',
+    'translation': '''Lakshmi, unemployed'''},
+
+    {'malayalam_sent': '''എന്നവര്''',
+    'translation': ''''''},
+
+    {'malayalam_sent': '''മേനോൻ എന്നവര്''',
+    'translation': '''Menon'''},
+
+    {'malayalam_sent': '''സജിത''',
+    'translation': '''Sajitha'''},
+
+    {'malayalam_sent': '''രണ്ടായിരത്തി പതിനഞ്ച് നവംബർ പതിനെട്ടാം തിയ്യതി തളിപ്പറമ്പ് താലൂക്ക് ഏരുവേശ്ശി അംശം ദേശത്ത് ഏരുവേശ്ശി ഗ്രാമപഞ്ചായത്ത് പി. ഒ. ചെമ്പേരി പിൻ 670632 എന്ന വിലാസത്തിൽ താമസിക്കും (ഇലക്ഷൻ ഐഡന്റിറ്റി കാർഡ് നമ്പർ KL/02/006/204276) ചാത്തുകുട്ടി എന്നവര് ഭാര്യ സ്വസ്ഥം 90 വയസ്സ് ചെങ്കുന്നുമ്മൽ കുഞ്ഞുമ്പിടുക്ക ലക്ഷ്മി അമ്മ ഇരിട്ടി താലൂക്ക് താലൂക്ക് പടിയൂർ അംശം ദേശത്ത് പടിയൂർ ഗ്രാമ പഞ്ചായത്ത് പുലിക്കാട് എന്ന സ്ഥലത്ത് പി. ഒ. പടിയൂർ പിൻ 670703 എന്ന വിലാസത്തിൽ താമസിക്കും (ഇലക്ഷൻ ഐഡന്റിറ്റി കാർഡ് നമ്പർ LKR1300904) തന്റെ മകൻ കരുണാകരന്റെ മകളും ഗിരീഷ് ഭാര്യയുമായ സ്വസ്ഥം 36 വയസ്സ് വടക്കേക്കുറ്റ് സജിത പേർക്ക് എഴുതിക്കൊടുത്ത മുക്ത്യാർ നാമം.
+    ''',
+    'translation': '''This is the Power of Attorney deed executed by Chattukutty's wife, Lakshmi Amma, aged 90, unemployed, residing at Eravesshi Desom, Eravesshi Grama Panchayat, P.O. Chemperi, Pin 670632, Taliparamba Taluk (Election Identity Card No. KL/02/006/204276), in favour of her granddaughter Smt. Vadakkekutt Sajitha, unemployed, aged 36 years, daughter of her son Karunakaran and wife of Girish, residing at Padiyur Amsom Desom, Padiyur Grama Panchayat, Pulikkad, P.O Padiyur, Pin 670703, Iritty Taluk (Election Identity Card No. LKR1300904), on this the eighteenth day of November 2015.'''},
+
+    {'malayalam_sent': '''ഇരിക്കൂർ II ലാന്റ് ട്രൈബ്യൂണലിലെ SM2379/75 നമ്പ്ര സ്വമേധയായുള്ള നടപടിയിന്മേലുണ്ടായ വിധി പ്രകാരം ജന്മാവകാശം അനുവദിച്ചുകൊണ്ട് 1982 ലെ 17-ാം നമ്പ്രായി ക്രയസർട്ടിഫിക്കറ്റ് ലഭിച്ച വഴിക്ക് എന്റെ സ്വന്തം ജന്മവും കൈവശവും ആയിട്ടുള്ള വസ്തുവിൽ നിന്നും''',
+    'translation': '''In the property that I own and possess on account of the 'Purchase Certificate' No 17 of 1982, received as per the verdict of the Irikkur II Land Tribunal in proceeding number SM2379/75'''},
+
+    {'malayalam_sent': '''ഞാൻ കൈവിട്ടതു കഴിച്ച് ബാക്കിയുള്ളതും ഏരുവേശ്ശി അംശം ദേശത്ത് റി.സ 88/11ൽപ്പെട്ടതുമായ 20.23 ആർ വസ്തു''',
+    'translation': '''the '20.23 are' property included in R.S 88/11 that I have remining in Eruvessy amsam desam'''},
+
+    {'malayalam_sent': '''മേൽ വസ്തുവിൽ നിന്നും ഞാൻ കൈവിട്ടതു കഴിച്ച് ബാക്കിയുള്ളതും ഏരുവേശ്ശി അംശം ദേശത്ത് റി.സ 88/11ൽപ്പെട്ടതുമായ 20.23 ആർ വസ്തു പണയപ്പെടുത്തി ഫെഡറൽ ബേങ്കിന്റെ ചെമ്പേരി ശാഖയിൽ നിന്നും ലോൺ എടുക്കുവാൻ''',
+    'translation': '''To secure a loan from the Chemberi Branch of the Federal Bank, by mortgaging the aforesaid property leaving out the portion I have already relinquished, which is located within Eruvessi Amsom Desom R.S 88/11 and admeasures 20.23 Ares'''},
+
+    {'malayalam_sent': '''വസ്തു പണയപ്പെടുത്തി ഫെഡറൽ ബേങ്കിന്റെ ചെമ്പേരി ശാഖയിൽ നിന്നും ലോൺ എടുക്കുവാനും ആയതിനാവശ്യമായ അപേക്ഷകൾ സമർപ്പിക്കുവാനും രേഖകൾ ഹാജരാക്കുവാനും തിരിച്ചുവാങ്ങുവാനും പണയാധാരങ്ങൾ തയ്യാറാക്കിച്ചും എഴുതിച്ചും ഒപ്പിട്ട് സബ്ബ്-രജിസ്ട്രാർ ആഫീസ്സിൽ ഹാജരാക്കി രജിസ്ട്രാക്കിച്ച് കൊടുക്കുവാനും ബേങ്കുകളിലും എല്ലാവിധ രേഖകളിലും ഒപ്പിട്ട് കൊടുക്കുവാനും പണയതുകകൾ ബേങ്കിൽ നിന്നും അതാതു ഗഡുക്കൾക്ക് കൈപ്പറ്റുവാനും തിരിച്ചടക്കുവാനും ബേങ്കിന്റെ നിർദ്ദേശാനുസരണം ഉള്ള പ്രവൃത്തികൾ ചെയ്യുവാനും ലോൺ സംബന്ധമായി ബേങ്കിൽ വേണ്ടപ്പെട്ട എല്ലാ കാര്യങ്ങൾ ചെയ്യുവാനും വരവ് ചിലവ് കണക്കുകൾ എന്നെ ബോദ്ധ്യപ്പെടുത്തുവാനും വേണ്ടി ഇതിനാൽ ഞാൻ നിന്നെ എന്റെ മുക്ത്യാർ ഏജന്റായി നിശ്ചയിച്ച് അധികാരം നൽകിയിരിക്കുന്നു.''',
+    'translation': '''To mortgage the property and apply for a loan from the Federal Bank's Chemberry branch, to prepare and submit the necessary applications and records, to buy back and prepare the mortgage documents, to present and register them at the Sub-Registrar's office, to sign and submit in all types of records in the banks, to receive and repay the loan amounts from the bank as per the bank's instructions, to carry out all the activities as per the bank's instructions related to the loan, to inform me about the income and expenditure accounts, I hereby appoint you as my Power of Attorney agent.'''},
+
+    {'malayalam_sent': '''ഈ മുക്ത്യാർ ബലത്തിന്മേൽ മേൽ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണെന്നും നിശ്ചയിച്ചും സമ്മതിച്ചും ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച് താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുകയും രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിക്കുകയും ചെയ്തിരിക്കുന്നു.''',
+    'translation': '''Under this Power of Attorney, you will act on my behalf in all matters as if I were acting directly, and I confirm and agree that it will always be valid and effective. I am signing this Power of Attorney and have decided to present it for registration at the Ulikkal Sub-Registrar's office, within the jurisdiction of the Vayathur Amsom Desom, in the presence of the witnesses signing below.'''},
+
+    {'malayalam_sent': '''ആയതിനാൽ''',
+    'translation': '''Therefore'''},
+
+    {'malayalam_sent': '''ആവശ്യമായ അപേക്ഷകൾ സമർപ്പിക്കുവാൻ''',
+    'translation': '''To submit the necessary applications'''},
+
+    {'malayalam_sent': '''രേഖകൾ ഹാജരാക്കുവാൻ ''',
+    'translation': '''To submit documents'''},
+
+    {'malayalam_sent': '''തിരിച്ചുവാങ്ങുവാൻ ''',
+    'translation': '''To withdraw'''},
+
+    {'malayalam_sent': '''പണയാധാരങ്ങൾ തയ്യാറാക്കുവാൻ ''',
+    'translation': '''To prepare promissory notes'''},
+
+    {'malayalam_sent': '''എഴുതിച്ചും''',
+    'translation': '''To write'''},
+
+    {'malayalam_sent': '''ഒപ്പിട്ട് ''',
+    'translation': '''To sign'''},
+
+    {'malayalam_sent': '''സബ്ബ്-രജിസ്ട്രാർ ആഫീസ്സിൽ ഹാജരാക്കി''',
+    'translation': '''To submit to the sub-registrar's office'''},
+
+    {'malayalam_sent': '''രജിസ്ട്രാക്കിച്ച് കൊടുക്കുവാനും ''',
+    'translation': '''To register and give'''},
+
+    {'malayalam_sent': '''ബേങ്കുകളിലും എല്ലാവിധ രേഖകളിലും ഒപ്പിട്ട് കൊടുക്കുവാനും''',
+    'translation': '''To sign all documents in banks'''},
+
+    {'malayalam_sent': '''പണയതുകകൾ ബേങ്കിൽ നിന്നും അതാതു ഗഡുക്കൾക്ക് കൈപ്പറ്റുവാനും ''',
+    'translation': '''To receive the loan amounts from the bank in installments'''},
+
+    {'malayalam_sent': '''തിരിച്ചടക്കുവാനും''',
+    'translation': '''To repay'''},
+
+    {'malayalam_sent': '''ബേങ്കിന്റെ നിർദ്ദേശാനുസരണം ഉള്ള പ്രവൃത്തികൾ ചെയ്യുവാനും ''',
+    'translation': '''To perform the activities as per the instructions of the bank'''},
+
+    {'malayalam_sent': '''ലോൺ സംബന്ധമായി ബേങ്കിൽ വേണ്ടപ്പെട്ട എല്ലാ കാര്യങ്ങൾ ചെയ്യുവാനും''',
+    'translation': '''To do all necessary things in the bank related to the loan'''},
+
+    {'malayalam_sent': '''വരവ് ചിലവ് കണക്കുകൾ എന്നെ ബോദ്ധ്യപ്പെടുത്തുവാനും''',
+    'translation': '''To convince me of the income and expenditure accounts'''},
+
+    {'malayalam_sent': '''വേണ്ടി ഇതിനാൽ ഞാൻ നിന്നെ എന്റെ മുക്ത്യാർ ഏജന്റായി നിശ്ചയിച്ച് അധികാരം നൽകിയിരിക്കുന്നു''',
+    'translation': '''Therefore, I appoint you as my attorney-in-fact and grant you the authority'''},
+
+    {'malayalam_sent': '''രണ്ടായിരത്തി പതിമൂന്നാമാണ്ട് ഡിസംബർ മാസം പതിനാലാം തീയതി ''',
+    'translation': '''This fourteenth day of December, two thousand and thirteen'''},
+
+    {'malayalam_sent': '''കോട്ടയം താലൂക്ക് അതിരമ്പുഴ വില്ലേജ് പടിഞ്ഞാറ്റും ഭാഗം കരയിൽ ശ്രീകണ്ഠമംഗലം പി.ഒ, പിൻ-686562 ''',
+    'translation': '''Sreekandamangalam P.O., Athirampuzha taluk, Kottayam district, Kerala PIN 686562'''},
+
+    {'malayalam_sent': '''പഴയപുരയ്ക്കൽ താഴത്ത് വീട്ടിൽ ദേവസ്യ മകൻ കമ്പനി ജോലി അൻപത്തിമൂന്നു വയസ്സുള്ള ജോസ് സെബാസ്റ്റ്യൻ (പാൻകാർഡ് നമ്പർ BYNPS9227B)''',
+    'translation': '''Jose Sebastian, son of Devasya, a resident of Puzhayapurakkal Thazhathu Veetthil, Athirampuzha, Kottayam district, Kerala, aged fifty-three years, working in a company, with PAN card number BYNPS9227B'''},
+
+    {'malayalam_sent': '''ചേർത്തല താലൂക്ക് പള്ളിപ്പുറം വില്ലേജ് പള്ളിപ്പുറം കരയിൽ പള്ളിപ്പുറം പി.ഒ, പിൻ-688541''',
+    'translation': '''Pallippuram village, Pallippuram Kara, Pallippuram PO, Cherthala taluk, PIN 688541'''},
+
+    {'malayalam_sent': '''തമ്പുരാങ്കൽ വീട്ടിൽ ഗോപിനാഥ് മൊഹാദ് മകൻ ബിസിനസ് നാല്പ്പത്തിമൂന്ന് വയസ്സുള്ള രാജേഷ് ഗോപിനാഥ് (പാൻ കാർഡ് നമ്പർ ATAPG8560C)''',
+    'translation': '''Rajesh Gopinath, son Gopinath Mohad, a resident of Thampurankal Veedu, aged forty-three years, engaged in business, with PAN card number ATAPG8560C'''},
+
+    {'malayalam_sent': '''എഴുതി കൊടുത്ത തീറാധാരം''',
+    'translation': '''Sale Deed'''},
+
+    {'malayalam_sent': '''പട്ടികയിലെ വഹകൾ''',
+    'translation': '''Schedule property'''},
+
+    {'malayalam_sent': '''ഇന്നു മുതൽക്ക്''',
+    'translation': '''From today onwards'''},
+
+    {'malayalam_sent': '''താൻ സ്വന്തമായി കൈവശം വെച്ചും''',
+    'translation': '''You keep in your own possession'''},
+
+    {'malayalam_sent': '''നികുതി അടച്ചും''',
+    'translation': '''Pay taxes'''},
+
+    {'malayalam_sent': '''അനുഭവിക്കുന്നതിനും ''',
+    'translation': '''Enjoy them'''},
+
+    {'malayalam_sent': '''ക്രയവിക്രയം ചെയ്യുന്നതിനും ''',
+    'translation': '''To trade in'''},
+
+    {'malayalam_sent': '''തനിക്ക് പൂർണ്ണ അധികാരമുള്ളതും''',
+    'translation': '''You have the full authority'''},
+
+    {'malayalam_sent': '''എനിക്ക് യാതൊരവകാശവും ഇല്ലാ''',
+    'translation': '''I have no right whatsoever'''},
+
+    {'malayalam_sent': '''മേൽപ്രകാരം''',
+    'translation': '''As mentioned above'''},
+
+    {'malayalam_sent': '''വിലക്കുള്ളതും''',
+    'translation': '''Worth'''},
+
+    {'malayalam_sent': '''താഴെ പട്ടികയിൽ പറയുന്നതുമായ''',
+    'translation': '''Listed below'''},
+
+    {'malayalam_sent': '''വഹകൾ''',
+    'translation': '''Properties'''},
+
+    {'malayalam_sent': '''അതിൽ ഉള്ള ജന്മം''',
+    'translation': '''Ownership'''},
+
+    {'malayalam_sent': '''കുഴിക്കൂർ ചമയം''',
+    'translation': '''Burial rights'''},
+
+    {'malayalam_sent': '''കൈവശം മുതലായ''',
+    'translation': '''Including possession'''},
+
+    {'malayalam_sent': '''സകലവിധ അവകാശങ്ങളോടും കൂടി''',
+    'translation': '''Along with all the rights'''},
+
+    {'malayalam_sent': '''എന്റെ ഭാര്യയും''',
+    'translation': '''My wife'''},
+
+    {'malayalam_sent': '''എന്നെ മാത്രം ആശ്രയിച്ചു ജിവിച്ചു വരുന്നവളും''',
+    'translation': '''Who is dependent on me alone'''},
+
+    {'malayalam_sent': '''വേറെ യാതൊരു മുതലും ഇല്ലാത്തവളുമായ''',
+    'translation': '''Who has no other property'''},
+
+    {'malayalam_sent': '''തനിക്ക്''',
+    'translation': '''To her or him'''},
+
+    {'malayalam_sent': '''തന്റെ മേലാലത്തെ കഴിച്ചിലിനും''',
+    'translation': '''For her future livelihood'''},
+
+    {'malayalam_sent': '''ക്ഷേമാഭിവൃദ്ധിക്കും വേണ്ടി''',
+    'translation': '''For the well-being'''},
+
+    {'malayalam_sent': '''തന്നോട് എനിക്കുള്ള സ്നേഹവാത്സല്യം നിമിത്തം''',
+    'translation': '''Out of my love and affection for her'''},
+
+    {'malayalam_sent': '''ഇതിനാൽ തനിക്ക് സെറ്റിൽമെന്റ് ചെയ്ത് തരികയും''',
+    'translation': '''I hereby settle and hand over to her'''},
+
+    {'malayalam_sent': '''പട്ടികയിലെ വഹകൾ വിട്ടൊഴിഞ്ഞ് കൈവശം തരികയും ചെയ്തിരിക്കുന്നു''',
+    'translation': '''The schedule property, along with all the rights is hander over.'''},
+
+    {'malayalam_sent': '''ടിയിൽ വിനോദ്''',
+    'translation': '''Vinod living at the aforesaid address'''},
+
+    {'malayalam_sent': '''ആയിരത്തി തൊള്ളായിരത്തിത്തൊണ്ണൂറ്റാറ് ജൂലൈ പതിനെട്ടാം തീയതി പാലക്കുഴി വിലേജ് കോഴിപ്പുള്ളി കരയിൽ രണ്ടിലാവുങ്കൽ പുത്തന് പുരയില് മത്തായി മകൻ കൃഷി ഇരുപത്തൊൻപത് വയസ് ഷിബു പേർക്ക് പിതാമഹൻ ടിയിൽ വർകി മകൻ കൃഷി എൺപത്തിയേഴ് വയസ് അവിരാ എഴുത്തിക്കൊടുത്ത ധനനിശ്ചയാധാരം.''',
+    'translation': '''On this the eighteenth day of July, Ninteen Hundred and Ninty Six,  Avira, aged Eighty-seven, son of Varki, a farmer, residing at Randilavunkal Puthanpurayil, Kozhippully Kara, Palakkuzhi Village, executed this deed of settlement in favor of his grandson, Shibu, aged twenty-nine, son of Mathai, a farmer, residing at the aforesaid address.'''},
+
+    {'malayalam_sent': '''ഭാരത സർക്കാർ നിയമ മന്ത്രാലയം''',
+    'translation': '''Ministry of Law, Government of India'''},
+
+    {'malayalam_sent': '''1882-ലെ മുക്ത്യാർ നാമങ്ങൾ ആക്റ് (1882-ലെ 7-ാം  ആക്റ് (1986 മേയ് 1-ാം  തീയതി നിലവിലിരുന്ന പ്രകാരം)''',
+    'translation': '''The powers of attorney act, 1882 (Act No.7 of 1882) (as on 1st May, 1986)'''},
+
+    {'malayalam_sent': '''യൂണിയൻ സർക്കാരിനു വേണ്ടി കേരള ഗവൺമെൻറ് പ്രസ്സ് സൂപ്രണ്ട് തിരുവനന്തപുരം ഗവൺമെൻറ് പ്രസ്സിൽ അച്ചടിപ്പിച്ച് പ്രസിദ്ധീകരിക്കുന്നത്.''',
+    'translation': '''Printed and published by Superintendent, Kerala Governmnet Press, Thiruananthapuram, for the union government.'''},
+
+    {'malayalam_sent': '''വില''',
+    'translation': '''price'''},
+
+    {'malayalam_sent': '''1986 മേയ 1-ാം  തീയതി നിലവിലിരുന്ന പ്രകാരമുളള 1882-ലെ മുക്ത്യാർ നാമങ്ങൾ ആക്റിൻ (1882ലെ 7-ാം  ആക്റ്) മലയാളത്തിലെ ആധികാരിക പരിഭാഷ ഈ പതിപ്പിൽ അടങ്ങിയിരിക്കുന്നു.''',
+    'translation': '''Official translation of the Powers of Attorney Act of 1882, in Malayalam, as prevalent on May 1st is contained in this print.'''},
+
+    {'malayalam_sent': '''1986 ജൂലൈ 28-ാം  തീയതിയിലെ അസാധാരണ കേന്ദ്ര ഗസറ് XI-ാം  ഭാഗം 1-ാം  വകുപ്പ് 1-ാം  വാല്യം, 1 മുതൽ 3 വരെയുള്ള പുറങ്ങളിൽ ഇത് പ്രസിദ്ധീകരിച്ചിരുന്നു.''',
+    'translation': '''This is published on pages 1 to 3 of the Extraordinary central gazette of July 28, 1986, Part XI, Division 1, Volume 1'''},
+
+    {'malayalam_sent': '''ആമുഖം മലയാളത്തിലെ ഈ ആധികാരിക പരിഭാഷ 1973-ലെ (പാധിക തർജ്ജമകൾ (കേന്ദ നിയമങ്ങൾ ആക്റ്റ് 2-ാം  വകുപ്പ് (ക) ഖണ്ഡം അനുസരിച്ച് പ്രസിഡൻറ് അധികാരപ്പെടു ത്തിയ പ്രകാരം പ്രസിദ്ധീകരിക്കുകയും അങ്ങനെ പ്രസിദ്ധീകരിച്ചതിൻമേൽ അത് ആ ആക്ററിന്റെ മലയാളത്തിലെ ആധികാരിക പരിഭാഷയായിത്തീരുകയും ചെയ്തു.''',
+    'translation': '''This authorised translation in Malayalam was published under the authority of the President under clause (a) of Section 2 of the Authorised Translations (Central Laws) Act, 1973, and on such publication it became the authorised translation of the Act in Malayalam.'''},
+
+    {'malayalam_sent': '''1882-ലെ മുക്താർ നാമങ്ങൾ ആക്ട്''',
+    'translation': '''Powers of Attorney Act of 1882'''},
+
+    {'malayalam_sent': '''നിർവ്വചനം''',
+    'translation': '''Definition'''},
+
+    {'malayalam_sent': '''ഈ ആക്റിന് 1882-ലെ മുക്ത്യാർ നാമങ്ങൾ ആക്റ്, എന്നു പേര് പറയ-ാം .''',
+    'translation': '''This Act may be called the Powers-of-Attorney Act, 1882.'''},
+
+    {'malayalam_sent': '''തദ്ദേശ വ്യാപ്തി. - ഇത് ഇൻഡ്യക്ക് മുഴുവൻ ബാധകമാണ്.''',
+    'translation': '''Local extent.-It applies to the whole of India'''},
+
+    {'malayalam_sent': '''പ്രാരംഭം.-ഇത് 1882 മേയ് ഒന്ന-ാം  തീയതി പ്രാബല്യത്തിൽ വരുന്നതാണ്.''',
+    'translation': '''Commencement. - it shall come into force on the first day of May, 1882.'''},
+
+    {'malayalam_sent': '''ഈ ആക്ററിൽ മുക്ത്യാർ നാമം എന്നാൽ അത് ഒപ്പിട്ടു പൂർത്തികരിക്കുന്ന വ്യക്തിക്കു വേണ്ടി അയാളുടെ പേരിൽ പ്രവർത്തിക്കുവാൻ ഒരു വ്യക്തിയെ വിനിർദ്ദേശിച്ച് അധികാരപ്പെടുത്തുന്ന ഏതൊരു പ്രമാണവും ഉൾപ്പെടുന്നതാകുന്നു.''',
+    'translation': '''In this Act, “Power-of-Attorney” includes any instrument empowering a specified person to act for and in the name of the person executing it.'''},
+
+    {'malayalam_sent': '''മുക്ത്യാർ നാമത്തിൻറ ആദാതാവിന് ഉചിതമെന്ന് തോന്നുന്നപക്ഷം, മുക്ത്യാർ ദാതാവിന്റെ അധികാരത്തിൽ, തന്റെ തൻറ സ്വന്തം പേരിലും കയ്യൊപ്പോടും, മുദ്ര  ആവശ്യമുളളപക്ഷം, തന്റെ സ്വന്തം മുദ്രയായോടും കൂടി, ഏതൊരു പ്രമാണവും ഒപ്പിട്ട് പൂർത്തീകരിക്കാവുന്നതും ഏതൊരു കാര്യവും ചെയ്യാ വുന്നതും അപ്രകാരം ആദാതാവ് ഒപ്പിട്ടു പൂർത്തീകരിച്ച് ഏതൊരു പ്രമാണത്തിനും ചെയ്ത ഏതൊരു കാര്യത്തിനും ദാതാവിന്റെ പേരിൽ ദാതാവിന്റെ കയ്യൊപ്പോടും മുദ്രയോടും കൂടി ആദാതാവ് ഒപ്പിട്ട് പൂർത്തീകരിക്കുകയോ ചെയ്യു കയോ ചെയ്തിരുന്നാൽ എന്നപോലെ നിയമ പ്രഭാവം ഉണ്ടായിരിക്കുന്നതും ആകുന്നു.''',
+    'translation': '''The donee of a power-of-attorney may, if he thinks fit, execute or do any instrument or thing in and with his own name and signature, 
+    and his own seal, where sealing is required, by the authority of the donor of the power; and every instrument and thing so executed and done, shall be as effectual in law as if it had been executed or done by the donee of the power in the name, and with the signature and seal, of the donor thereof.'''},
+
+    {'malayalam_sent': '''ഈ ആക്റ പ്രാബല്യത്തിൽ വരുന്നതിനു മുൻപും അതിനുശേഷവും ഒപ്പിട്ട് പൂർത്തീകരിച്ച പ്രമാണങ്ങളാൽ ഉണ്ടാക്കിയിട്ടുള്ള മുക്ത്യാർ നാമങ്ങൾക്ക് ഈ വകുപ്പ് ബാധകമാണ്.''',
+    'translation': '''This section applies to powers-of-attorney created by instruments executed either before or after this Act comes into force'''},
+
+    {'malayalam_sent': '''ഒരു മുക്ത്യാർ നാമം അനുസരിച്ച് ഉത്തമവിശ്വാസത്തിൽ ഏതെങ്കിലും തുക നൽകുകയോ പ്രവൃത്തി ചെയ്യുകയോ ചെയ്യുന്ന ഒരാൾക്ക്, ആ തുക നൽകുന്നതിനും പ്രവൃത്തി ചെയ്യുന്നതിനും മുൻപായി, ദാതാവ ദാതാവ് മരിച്ചുപോകുകയോ ചിത്തഭ്രമമുളവനാകുകയോ നിർദ്ധനനാകുകയോ അഥവാ ദാതാവ് മുക്ത്യാർ നാമ പിൻവലിക്കുകയോ ചെയ്ത കാരണത്താൽ ആ തുക നൽകിയ സമയത്തോ പ്രവൃത്തിചെയ്ത സമയത്തോ ദാതാവിന്റെ മരണമോ ചിത്തഭ്രമമോ നിർദ്ധനത്വമോ മുക്ത്യാർനാമത്തിന്റെ പിൻവലിക്കലോ തുക നൽകുകയോ പ്രവൃത്തി ചെയ്യുകയോ ചെയ്യുന്ന ആളിന്റെ അറിവിൽപ്പെട്ടിരുന്നില്ലെങ്കിൽ, ആ തുക നൽകുന്നതോ പ്രവൃത്തി ചെയ്യു ന്നതോ സംബന്ധിച്ച് ബാദ്ധ്യത ഉണ്ടായിരിക്കുന്നതല്ല.''',
+    'translation': '''Any person making or doing any payment or act in good faith, in pursuance of a power-of-attorney, shall not be liable in respect of the payment or act by reason that, before the payment or act, the donor of the power had died or become of unsound mind, or insolvent, or had revoked the 
+    power, if the fact of death, unsoundness of mind, insolvency or revocation was not, at the time of the payment or act, known to the person making or doing the same.'''},
+
+    {'malayalam_sent': '''എന്നാൽ ഈ വകുപ്പ്, അപ്രകാരം നൽകപ്പെട്ട ഏതെങ്കിലും തുകയിൽ അവകാശബന്ധമുളള ഒരാളിന് തുക വാങ്ങിയ ആളിന് എതിരായുള്ള യാതൊരു അവകാശത്തെയും ബാധിക്കുന്നതല്ലാത്തതും ആ ആളിന് തുക നൽകിയിട്ടില്ലായിരു ന്നുവെങ്കിൽ തുക നൽകുന്ന ആളിനെതിരെ ലഭ്യമാകുമായിരുന്ന അതേ പരിഹാരം തുക വാങ്ങിയ ആളിന് എതിരായും ഉണ്ടായിരിക്കുന്നതും ആകുന്നു.''',
+    'translation': '''But this section shall not affect any right against the payee of any person interested in any money so paid; and that person shall have the like remedy against the payee as he would have had against the payer, if the payment had not been made by him.'''},
+
+    {'malayalam_sent': '''ഈ ആക്റ്റ് പ്രാബല്യത്തിൽ വന്നതിനുശേഷം നൽകിയിട്ടുള്ള തുകയ്ക്കും ചെയ്തിട്ടുള്ള പ്രവൃത്തികൾക്കും മാത്രം ഈ വകുപ്പ് ബാധകമാകുന്നതാണ്.''',
+    'translation': '''This section applies only to payments and acts made or done after this Act comes into force.'''},
+
+    {'malayalam_sent': '''ഒരു മുക്ത്യാർ നാമം ഉണ്ടാക്കിക്കൊണ്ടുള്ള ഒരു പ്രമാണം, സത്യവാങ്മൂലമോ നിയമപ്രകാരമുള്ള പ്രഖ്യാപനമോ അഥവാ മറ്റു മതിയായ തെളിവോ കൊണ്ട് അത് എഴുതി കൊടുത്തത് സത്യബോധപ്പെടുത്തിയിട്ടുളളപ്പോൾ, ആ പ്രമാണം, സത്യവാങ്മൂലമോ പ്രഖ്യാപനമോ ഏതെങ്കിലുമുണ്ടെങ്കിൽ, അതുസഹിതം ഏത് ഹൈക്കോടതിയുടേയോ ഡിസ്ട്രിക്റ്റ് കോടതിയുടേയോ വിചാരണാധികാരിതയുടെ തദ്ദേശാതിർത്തികൾക്കുള്ളിലാണോ ആ പ്രമാണം ഉളളത് ആ ഹൈക്കോ ടതിയിൽ നിക്ഷേപിക്കേണ്ടതാണ്.''',
+    'translation': '''An instrument creating a power-of-attorney, its execution being verified by affidavit, statutory declaration or other sufficient evidence, may, with the affidavit or declaration, if any, be deposited in the High Court or District Court within the local limits of whose jurisdiction the instrument may be.'''},
+
+    {'malayalam_sent': '''അപകാരം നിക്ഷേപിക്കുന്ന പ്രമാണങ്ങളുടെ ഒരു പ്രത്യേക ഫയൽ വച്ചുപോരേണ്ടതും, ഏതൊരാളിനും ആ ഫയൽ ശോധന നടത്താവുന്നതും, അപ്രകാരം നിക്ഷേപിക്കുന്ന ഏതൊരു പ്രമാണവും പരിശോധിക്കാവുന്നതും, അപേക്ഷിക്കുന്നതിനുമേൽ അതിന്റെ സർട്ടിഫൈ ചെയ്ത ഒരു പ്രതി അയാൾക്ക ഏൽപ്പിച്ചുകൊടുക്കേണ്ടതും ആകുന്നു.''',
+    'translation': '''A separate file of instruments so deposited shall be kept; and any person May search that file, and inspect every instrument so deposited; and a certified copy thereof shall be delivered out to him on request.'''},
+
+    {'malayalam_sent': '''അപ്രകാരം നിക്ഷേപിക്കുന്ന പ്രമാണത്തിന്റെ ഒരു പ്രതി ആഫീസിൽ ഹാജരാക്കാവുന്നതും സർട്ടിഫൈ ചെയ്ത ഒരു പ്രതിയായി മുദ്രവയ്ക്കാവുന്നതും അടയാളപ്പെടുത്താവുന്നതും, അപകാരം മുദ്രവയ്ക്കുകയോ അടയാളപ്പെടു ത്തുകയോ ചെയ്യുമ്പോൾ അതു ഒരു സർട്ടിഫൈ ചെയ്ത പ്രതിയായിത്തീരുന്നതും ആകുന്നു.''',
+    'translation': '''A copy of an instrument so deposited may be presented at the office and may be stamped or marked as a certified copy, and, when so stamped or marked, shall become and be a certified copy.'''},
+
+    {'malayalam_sent': '''അപ്രകാരം നിക്ഷേപിക്കുന്ന പ്രമാണത്തിന്റെ ഒരു സർട്ടിഫൈ ചെയ്ത പതി, കൂടുതൽ തെളിവു കൂടാതെ, പ്രമാണത്തിന്റെ ഉള്ളടക്കത്തിന്റെയും ഹൈക്കോടതിയിലോ കോടതിയിലോ അത് നിക്ഷേപിച്ചിട്ടുള തിന്റേയും മതിയായ തെളിവായിരിക്കുന്നതാണ്.''',
+    'translation': '''A certified copy of an instrument so deposited shall, without further proof, be sufficient evidence of the contents of the instrument and of the deposit thereof in the High Court or District Court.'''},
+
+    {'malayalam_sent': '''ഈ വകുപ്പിന്റെ ആവശ്യത്തിലേക്കും, സംസ്ഥാന സർക്കാരിന്റെ സമ്മതത്തോടുകൂടി (ക), (ഖ), (ഗ) എന്നീ ഖണ്ഡങ്ങൾ പ്രകാരം ഈടാക്കേണ്ട ഫീസ് നിർണ്ണയിച്ചുകൊണ്ടും ഹൈക്കോടതിക്ക്, അതതുസമയം, ചട്ടങ്ങൾ ഉണ്ടാക്കാ വുന്നതാണ്.''',
+    'translation': '''The High Court may, from time to time, make rules for the purposes of this section, and prescribing, with the concurrence of the State Government, the fees to be taken under clauses (a), (b) and (c)'''},
+
+    {'malayalam_sent': '''ഈ ആക്റ്റ് പ്രാബല്യത്തിൽ വരുന്നതിനു മുൻപും അതിനു ശേഷവും മുക്ത്യാർ നാമങ്ങൾ ഉണ്ടാക്കുന്നതിനുളള ഒപ്പിട്ട് പൂർത്തീകരിച്ച പ്രമാണ ങ്ങൾക്ക ഈ വകുപ്പ് ബാധകമാകുന്നതാണ്.''',
+    'translation': '''This section applies to instruments creating powers-of-attorney executed either before or after this Act comes into force.'''},
+
+    {'malayalam_sent': '''പ്രായപൂർത്തിയെത്തിയ ഒരു വിവാഹിതയായ സ്ത്രീക്ക്, അവൾ അവിവാ ഹിത ആയിരുന്നാലെന്നപോലെ, മരണശാസനപ്രതമല്ലാതെയുള്ള ഒരു പ്രമാണത്താൽ, മരണശാസനപ്രതം അല്ലാതെയുള്ള ഒരു പ്രമാണം ഒപ്പിട്ടു പൂർത്തീകരിക്കുന്നതിനോ, അല്ലെങ്കിൽ അവൾക്ക് നേരിട്ട് ഒപ്പിട്ട് പൂർത്തീകരിക്കാനോ ചെയ്യാനോ കഴിയുന്ന മറേതെങ്കിലും പ്രവൃത്തി ചെയ്യുന്നതിനോ വേണ്ടി, തനിക്കുവേണ്ടി ഒരു മുക്ത്യാർ ഈ ആക്ററിന്റെ ബലത്തിൽ അധികാരമുണ്ടായിരിക്കു ന്നതും മുക്ത്യാർ നാമങ്ങൾ ഉണ്ടാക്കുന്നതിനുള്ള പ്രമാണങ്ങൾ സംബന്ധിച്ച ഈ ആറിലെ വ്യവസ്ഥകൾ അതിന് ബാധകമാകുന്നതും ആകുന്നു.''',
+    'translation': '''A married woman of full age shall, by virtue of this Act, have power, as if she were unmarried, by a non-testamentary instrument, to appoint an attorney on her behalf, for the purpose of executing any non-testamentary instrument or doing any other act which she might herself execute or do; and the provisions of this Act, relating to instruments creating powers-of-attorney, shall apply thereto.'''},
+
+    {'malayalam_sent': '''ഈ ആക് പാബല്യത്തിൽ വന്നതിനുശേഷം എഴുതിക്കൊടുത്ത ങ്ങൾക്കുമാത്രം ഈ വകുപ്പ് ബാധകമായിരിക്കുന്നതാണ്.''',
+    'translation': '''This section applies only to instruments executed after this Act comes into force.'''},
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ ബലത്തിന്മേൽ മേൽ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണെന്നും നിശ്ചയിച്ചും സമ്മതിച്ചും ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച് താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുകയും രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിക്കുകയും ചെയ്തിരിക്കുന്നു.''',
+    'translation': '''I hereby confirm and agree that all actions you take on the basis of this Power of Attorney will be binding and effective on me for ever as if I had acted directly, and I have signed this Power of Attorney at Vayathuramsom Desam, within the jurisdiction of Ulikkal Sub Registrar Officer, in the presence of the witnesses signing below, and I have decided to present it at the Ulikkal Sub-Registrar's office for registration. '''},
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ ബലത്തിന്മേൽ മേൽ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണ്. ''',
+    'translation': '''I hereby confirm and agree that all actions you take on the basis of this Power of Attorney will be binding and effective on me for ever, as if I had acted directly.'''},
+
+
+{'malayalam_sent': '''ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച് താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുന്നു.''',
+    'translation': '''I have signed this Power of Attorney at Vayathuramsom Desam, within the jurisdiction of Ulikkal Sub Registrar Officer, in the presence of the witnesses signing below.'''},
+
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർനാമം രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിച്ചിരിക്കുന്നു . ''',
+    'translation': '''Have decided to submit this Power of Attorney at the Ulikkal Sub_Registrar's office for registration.'''},
+
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണെന്നും സമ്മതിച്ചും ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച് താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുകയും രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിക്കുകയും ചെയ്തിരിക്കുന്നു.''',
+    'translation': ''' I hereby agree that all actions you take on the basis of this Power of Attorney will be binding and effective on me for ever as if I had acted directly, and I have signed this Power of Attorney at Vayathuramsom Desam, within the jurisdiction of Ulikkal Sub Registrar Officer, in the presence of the witnesses signing below, and I have decided to present it at the Ulikkal Sub-Registrar's office for registration.'''},
+
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ പ്രകാരം നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണെന്ന്  സമ്മതിച്ചു, ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുകയും, ഇത്  രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിക്കുകയും ചെയ്തിരിക്കുന്നു.''',
+    'translation': ''' I agree that all actions you take on the basis of this Power of Attorney will be binding and effective on me for ever as if I had acted directly, and I have signed this Power of Attorney and I have decided to present it at the Ulikkal Sub-Registrar's office for registration.'''},
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും പ്രബല്യത്തിലിരിക്കുന്നതാണ്. ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച് താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ ഞാൻ ഈ മുക്ത്യാർനാമം ഒപ്പിടുന്നു. ഇത്  രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിൽ ഹാജരാക്കുവാൻ തീരുമാനിച്ചിരിക്കുന്നു .''',
+    'translation': ''' I hereby agree that all actions you take on the basis of this Power of Attorney will be binding and effective on me for ever as if I had acted directly. I have signed this Power of Attorney at Vayathuramsom Desam, within the jurisdiction of Ulikkal Sub Registrar Officer, in the presence of the witnesses signing below. I have decided to present it at the Ulikkal Sub-Registrar's office for registration.'''},
+
+{'malayalam_sent': '''ഈ മുക്ത്യാർ ബലത്തിന്മേൽ''',
+    'translation': '''In the strength of this power of attorney'''},
+
+{'malayalam_sent': '''മേൽ പ്രകാരം എനിക്കു വേണ്ടി നീ പ്രവർത്തിക്കുന്നതൊക്കെയും''',
+    'translation': '''Everything you do on my behalf under the above terms'''},
+
+{'malayalam_sent': '''ഞാൻ നേരിട്ട് പ്രവർത്തിച്ചതുപോലെ എന്നെന്നും ബലത്തിലും ഫലത്തിലും ഇരിക്കുന്നതാണെന്നും''',
+    'translation': '''will always remain in force and effect as if I had acted directly'''},
+
+
+{'malayalam_sent': '''നിശ്ചയിച്ചും സമ്മതിച്ചും''',
+    'translation': '''have decided and agreed'''},
+
+{'malayalam_sent': '''ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസ്സിന്റെ അധികാര പരിധിയിൽപെട്ട വയത്തൂരംശം ദേശത്ത് വെച്ച്''',
+    'translation': '''at Vayathuramsham desam, which comes under the jurisdiction of the Ulikal Sub-Registrar's Office'''},
+
+{'malayalam_sent': ''' താഴെ ഒപ്പിടുന്ന സാക്ഷികൾ മുമ്പാകെ''',
+    'translation': '''in the presence of the witnesses signing below '''},
+
+{'malayalam_sent': '''രജിസ്ത്രർ ചെയ്യുവാനായി ഉളിക്കൽ സബ്ബ്-രജിസ്ത്രാർ ആഫീസിൽ ഹാജരാക്കുവാൻ തീരുമാനിക്കുകയും ചെയ്തിരിക്കുന്നു''',
+    'translation': '''and I have decided to submit it to the Ulikal Sub-Registrar's Office for registration'''},
+
+{'malayalam_sent': '''ആൻറണി വിൽക്കുന്നയാൾ, വി. കെ അബ്ദുൾ വാങ്ങുന്നയാൾ ''',
+    'translation': '''Antony is the seller, V.K. Abdul is the buyer.'''},
+
+{'malayalam_sent': '''19-08-2008 രണ്ടായിരത്തിഎട്ട് ആഗസ്റ്റ് മാസം പത്തൊൻപതാം തീയതി കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ്, വല്ലാർപാടം ദേശത്ത് കാട്ടുനിലത്ത് ചാനി മകൻ കച്ചവടം, 68 (അറുപത്തിഎട്ട്) വയസ്സ്, ആൻറണി, ആലുവ താലൂക്ക്, ആലുവ വെസ്റ്റ് വില്ലേജ്, ആലുവ കരയിൽ മാർക്കറ്റ് റോഡിൽ, ആലുവ-1 ൽ മാനാടത്ത് ബിൽഡിംഗ്സിൽ രജിസ്ട്രേഡ് ഓഫീസായി 1956 ലെ കംപനീസ് ആക്ട് പ്രകാരം രജിസ്റ്റർ ചെയ്തു പ്രവർത്തിക്കുന്ന സർഗ്ഗം ബിൽഡേഴ്സ് പ്രൈവറ്റ് ലിമിറ്റഡിനു (PAN- AAJCS 0115 J) വേണ്ടി ചെയർമാനും മാനേജിംഗ് ഡയറക്ടറുമായ കണയന്നൂർ താലൂക്ക് എളങ്കുളം വില്ലേജ് കടവന്ത്ര ദേശത്ത്, കൊച്ചി-682020 ൽ വാട്ടർ ലാൻറ് റോഡിൽ സർഗ്ഗം വീട്ടിൽ താമസം വി. കെ. കുഞ്ഞാലി നൈന മകൻ ബിസിനസ്സ്, 60(അറുപത്) വയസ്സ്,  വി. കെ. അബ്ദുൾ റഹീം, പേർക്ക് എഴുതിക്കൊടുത്ത തീറാധാരം. ''',
+    'translation': '''Sale deed executed on 19-08-2008 by Antony, Son of Kattunilathu Chani, aged 68 years, a resident of Vallarpadam Desom, Mulavukadu Village, Kanayannur Taluk in favor of Sarggam Builders Private Limited, a company registered under the Companies Act, 1956, having its registered office at Manadathu Buildings, Market Road, Aluva West village, Aluva Kara, Aluva-1 (PAN-AAJCS 0115 J) represented by its chairman and managing director V.K. Abdul Rahim, a businessman, Son of V.K. Kunjaali Naina, aged 60 years, a resident of Sarggam House, Water Land Road, Kochi-682020. '''},
+
+
+{'malayalam_sent': '''താഴെ പട്ടികയിൽ വിവരിക്കുന്ന മുളവുകാട് വില്ലേജ് സർവ്വെ 817/11ൽ പെട്ട 89,500 സെൻറ് വഹകളുടെ പാലിയംവക  പാട്ടവകാശം എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് 1-ാം പുസ്തകം 1047-ാം വാല്യം 376 മുതൽ 380 വരെ വശങ്ങളിൽ രജിസ്ട്രാക്കിയ 1964 ലെ 765-ാം നംപർ തീറാധാരത്തിൽ 1-ാം നംപർ പട്ടികയായി വിവരിച്ചതും പ്രസ്തുത വഹകളുടെ ജന്മാവകാശം കണയന്നൂർ താലൂക്ക് അഡീഷണൽ തഹസിൽദാർ ഓഫീസിലെ 06-03-2006 ലെ കെഡീസ് 372/06/5-2 നംപർ ഉത്തരവു പ്രകാരവും എനിക്കു സിദ്ധിച്ചും കൈവശം വച്ച് അനുഭവിച്ചു വന്നിരുന്ന റീസർവ്വെ പ്രകാരം ബ്ലോക്ക് രണ്ടിൽ 189/11 ൽ 29.34 ആർ വിസ്തീർണ്ണം  ഉള്ളതും ആയ സ്ഥലത്തിൽ നിന്നും എറണാകുളം രജിസ്ട്രാഫീസിലെ 2007 ലെ 3951-ാം നംപർ തീറാധാരപ്രകാരം നിങ്ങൾക്ക് തീറുതന്ന 04.398 സെൻറ് (01.78 ആർ) കഴിച്ച് ബാക്കി 85.102 സെൻറ് (34,454 ആർ) സ്ഥലം യാതൊരുവിധമായ കടബാദ്ധ്യതയും ന്യൂനതയും കൂടാതെ ഞാൻ കൈവശം വച്ച് കരം മുതലായവ തീർത്ത് അടക്കി അനുഭവിച്ചു വരുന്നതും എനിക്ക് മാത്രം അവകാശപ്പെട്ടതുമാകുന്നു. ''',
+'translation': '''The leasehold rights on the properties in Survey 817/11 of Mulavukadu village, described in the table below, measuring 89.500 cent, is detailed in the first table of 765th number sale deed of 1964,  regisered on pages 376-380 of 1047th volume of first book of Ernakulam Sub Registrar's office. I have received the ownership of the above properties in Resurvey Block 2 189/11, measuring 29.34 are,  as per Order No KDis 372/06/5-2 of the Additional Tahsildar Office, Kanayannur Taluk dated 06-03-2006. Out of this land, I have sold 4.398 cents (01.78 are) to you as per Sale deed no. 3952 of 2007 of Eranakulam Registrar's office. I have been holding the remaining 85.102 cents (34.454 are) of land without any liabilities, after paying all taxes and other dues,  This land belongs to me alone. '''},
+
+{'malayalam_sent': ''' താഴെ പട്ടികയിൽ വിവരിക്കുന്ന മുളവുകാട് വില്ലേജ് സർവ്വെ 817/11ൽ പെട്ട 89,500 സെൻറ് വഹകളുടെ പാലിയംവക പാട്ടവകാശം''',
+    'translation': '''The leasehold right of the 89,500 cents of land in Survey 817/11 of Mulavukadu village, as described in the below table. '''},
+
+
+{'malayalam_sent': ''' എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് 1-ാം പുസ്തകം 1047-ാം വാല്യം 376 മുതൽ 380 വരെ വശങ്ങളിൽ രജിസ്ട്രാക്കിയ 1964 ലെ 765-ാം നംപർ തീറാധാരത്തിൽ 1-ാം നംപർ പട്ടികയായി വിവരിച്ചതും''',
+    'translation': '''As described in the 1st table in the 765th number deed of sale registered in the 1st book, volume 1047 of the Ernakulam sub-registrar's office, from page 376 to page 380 '''},
+
+
+{'malayalam_sent': '''കണയന്നൂർ താലൂക്ക് അഡീഷണൽ തഹസിൽദാർ ഓഫീസിലെ 06-03-2006 ലെ കെഡീസ് 372/06/5-2 നംപർ ഉത്തരവു പ്രകാരവും''',
+    'translation': ''' As per the order number KDIS 372/06/5-2 dated 06-03-2006 of the Additional Tahsildar Office, Kanayannur Taluk.'''},
+
+
+{'malayalam_sent': '''എനിക്കു സിദ്ധിച്ചും കൈവശം വച്ച് അനുഭവിച്ചു വന്നിരുന്ന റീസർവ്വെ പ്രകാരം ബ്ലോക്ക് രണ്ടിൽ 189/11 ൽ 29.34 ആർ വിസ്തീർണ്ണം ഉള്ളതും ആയ സ്ഥലത്തിൽ നിന്നും ''',
+    'translation': '''From the land measuring 29.34 ares in Resurvey Block 2 189/11, which I had acquired and been in possession of and enjoying '''},
+
+{'malayalam_sent': '''എറണാകുളം രജിസ്ട്രാഫീസിലെ 2007 ലെ 3951-ാം നംപർ തീറാധാരപ്രകാരം നിങ്ങൾക്ക് തീറുതന്ന 04.398 സെൻറ് (01.78 ആർ) കഴിച്ച് ബാക്കി 85.102 സെൻറ് (34,454 ആർ) സ്ഥലം യാതൊരുവിധമായ കടബാദ്ധ്യതയും ന്യൂനതയും കൂടാതെ ഞാൻ കൈവശം വച്ച് കരം മുതലായവ തീർത്ത് അടക്കി അനുഭവിച്ചു വരുന്നതും ''',
+    'translation': '''After selling you 04.398 cents (01.78 ares) in accordance with the 3951st number sale deed of 2007 in the Ernakulam Registration Office, the remaining land measuring 85.102 cents (34.454 ares), which I have been in possession of and enjoying, free of any kind of debt or defect, after paying the tax and other dues'''},
+
+
+{'malayalam_sent': '''എനിക്ക് മാത്രം അവകാശപ്പെട്ടതുമാകുന്നു''',
+    'translation': '''Belongs to me absolutely'''},
+
+{'malayalam_sent': '''ഇപ്രകാരം എൻെറ കൈവശാവകാശാനുഭവത്തിൽ ഇരുന്നു വരുന്ന 34.454 ആറിൽ (85.102 സെന്ററിൽ) നിന്നും അളന്ന് തിരിച്ച താഴെ പട്ടികയിൽ വിവരിക്കുന്ന 02.28 ആർ (05.640സെൻറ്) വിസ്തീർണമുള്ള സ്ഥലം കംപനിയുടെ പേരിൽ തീറുതരുന്നതിന് കംപനിയുടെ ചെയർമാൻ, മാനേജിംഗ് ഡയറക്ടർ എന്നീ നിലയിൽ നിങ്ങളും ഞാനും തമ്മിൽ ഉഭയസമ്മത പ്രകാരം 16,00,000(പതിനാറു ലക്ഷം) രൂപ തീറുവില നിശ്ചയിച്ച് സമ്മതിച്ച് തീർത്ഥം ഫെഡറൽ ബാങ്ക്, ആലുവ ഫെഡറൽ ഹൈറ്റ്സ് ശാഖയിലെ 716886-ാം നംപർ ചെക്കിൻ പ്രകാരം 1,00,000 (ഒരു ലക്ഷം) രൂപയും, ഫെഡറൽ ബാങ്ക്, ആലുവ ഫെഡറൽ ഹൈറസ് ശാഖയിലെ 716896-ാം നംപർ ചെക്കിൻപ്രകാരം 10,00,000 (പത്ത് ലക്ഷം) രൂപയും ഫെഡറൽ ബാങ്ക് ആലുവ ഫെഡറൽ ഹൈറ്സ് ശാഖയിലെ 19-08-2008 ലെ 181662-ാം നംപർ ചെക്കിൻ പ്രകാരം കിട്ടിയ 5,00,000(അഞ്ച് ലക്ഷം) രൂപയും കൂടി മൊത്തം 16,00,000(പതിനാറ് ലക്ഷം)രൂപ എനിക്ക് കംപനിയിൽ നിന്നും കിട്ടി ബോദ്ധ്യം വന്ന് താഴെ പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലത്തിൽ എനിക്കുള്ള സകലവിധമായ അവകാശങ്ങളും ഇതിനാൽ പരിഛേദം വിട്ടൊഴിഞ്ഞ് കംപനിയുടെ പേരിൽ തീറായി നടത്തി കൈവശം തന്നിരിക്കുന്നതാകുന്നു. ''',
+'translation': '''As such, from the 34.454 ares (85.102 cents) that I have been in possession of and enjoying, I have measured and separated the 02.28 ares (05.640 cents) of land, as described in the table below, and sold the same to the company. You, as the chairman and managing director of the Company and I have agreed on a price of ₹16,00,000 (sixteen lakhs) for the sale of the above property. The company has paid me ₹1,00,000 (one lakh) from Federal Bank, Aluva Federal Heights branch by check number 716886; ₹10,00,000 (ten lakhs) from Federal Bank, Aluva Federal Heights branch by check number 716896; and ₹5,00,000 (five lakhs) from Federal Bank, Aluva Federal Heights branch by check number 181662, dated 19-08-2008. In total, I have received ₹16,00,000 (sixteen lakhs) from the company. Therefore, I have hereby transferred all of my rights in the land described in the table to the company and handed over possession to the company.'''},
+
+
+{'malayalam_sent': '''എൻെറ കൈവശാവകാശാനുഭവത്തിൽ ഇരുന്നു വരുന്ന 34.454 ആറിൽ (85.102 സെന്ററിൽ) നിന്നും ''',
+    'translation': '''From the 34.454 ares (85.102 cents) that I have been in possession of and enjoying '''},
+
+{'malayalam_sent': '''അളന്ന് തിരിച്ച താഴെ പട്ടികയിൽ വിവരിക്കുന്ന 02.28 ആർ (05.640സെൻറ്) വിസ്തീർണമുള്ള സ്ഥലം ''',
+    'translation': ''' The 02.28 ares (05.640 cents) of land described in the table below, which I have measured and separated'''},
+
+{'malayalam_sent': '''കംപനിയുടെ പേരിൽ തീറുതരുന്നതിന് ''',
+    'translation': '''To sell to the Company '''},
+
+{'malayalam_sent': '''കംപനിയുടെ ചെയർമാൻ, മാനേജിംഗ് ഡയറക്ടർ എന്നീ നിലയിൽ നിങ്ങളും ഞാനും തമ്മിൽ ഉഭയസമ്മത പ്രകാരം: ''',
+    'translation': '''As, you as the Chairman and Managing Director of the Company and I have, mutually agreed'''},
+
+
+{'malayalam_sent': '''ഫെഡറൽ ബാങ്ക്, ആലുവ ഫെഡറൽ ഹൈറസ് ശാഖയിലെ 716896-ാം നംപർ ചെക്കിൻപ്രകാരം 10,00,000 (പത്ത് ലക്ഷം) രൂപ''',
+    'translation': '''Rs 10,00,000 (Ten Lakhs), as per Check No. 716896 drawn on Federal Bank, Aluva Federal Heights Branch'''},
+
+
+{'malayalam_sent': '''അതനുസരിച്ച് പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലം ഇന്നുമുതൽ കംപനി തീറായി കൈവശം വച്ചും, പേരിൽ പോക്കുവരവു ചെയ്യിച്ചും, മേലാലുള്ള വില്ലേജ് കരം, മുതലായവ തീർത്തും, ക്രയവിക്രയസർവ്വസ്വാതന്ത്യ്രസഹിതം തീറായി അടക്കി അനുഭവിച്ചു കൊള്ളുന്ന കാര്യത്തിലും, തീറുവിലയെ സംബന്ധിച്ചും മേലാൽ എനിക്കോ എന്റെ പിൻതുടർച്ചാവകാശികൾക്കോ യാതൊരു വിധമായ ചോദ്യവും ബാധ്യതയും അവകാശതേർച്ചകളും ഉണ്ടായിരിക്കുന്നതല്ലെന്ന് ഇതിനാൽ പൂർണമായി സമ്മതിച്ചിരിക്കുന്നു. ''',
+    'translation': '''In accordance with the above, I hereby fully agree that the Company will own and hold possession of the land described in the table from today onwards, register it in its name, pay the village tax and other dues, and enjoy the land with full freedom to transact. I also agree that neither I nor my successors will have any questions, liabilities, or disputes regarding the such rights of the Company or the sale price. '''},
+
+{'malayalam_sent': '''പട്ടികവഹകളിൽ സ്ഥാപിച്ച് യാതൊരുവിധമായ കടബാധ്യതകളുമില്ലെന്നും, കോർട്ടുജി, റവന്യൂ ജപ്തി ജാമ്യബാധ്യത മുതലായ പ്രതി ബന്ധങ്ങളിൽ പെടുകയോ പെടുത്തുകയോ ചെയ്തിട്ടില്ലെന്നും കേരളാ ഭൂപരിഷ്കരണ നിയമ പ്രകാരം പരിധിയിൽ കവിഞ്ഞ വഹകൾ എന്റെ കൈവശത്തിൽ ഇല്ലെന്നും, വഹകൾ ലാൻഡ് സീലിങ്ങ് കേസുകളിൽ പെട്ടിട്ടില്ലെന്നും നിങ്ങ ളെ ഉത്തമവിശ്വാസപ്പെടുത്തിയും ഈ തീറാധാരം എഴുതി തന്ന് തീറർത്ഥം പറ്റി ബോധ്യം വന്നിട്ടുള്ളതാകുന്നു ''',
+    'translation': '''I hereby assure you that there are no liabilities of any kind on the land listed in the table, and that it is not involved in any legal relationships such as court cases, revenue seizures, or pledges. I also assure you that I do not have any land in excess of the limits prescribed by the Kerala Land Reforms Act, and that the land is not involved in land ceiling cases. I have convinced you of the above, and have acknowledged the receipt of the sale consideration. '''},
+
+{'malayalam_sent': '''മേൽ എഴുതിയതിനു വിപരീതമായി വന്ന് വല്ല അവകാശനതകളോ മുൻ ബാദ്ധ്യതകളോ മറേറാ ഉണ്ടായി കണ്ട് ഈ തീറുതരുന്ന വസ്തു വഹകളിൽ സ്ഥാപിച്ച് നിങ്ങൾ വല്ല നഷ്ടങ്ങളോ ഈ ആധാരത്തിനു വല്ല ന്യൂനതയോ മറേറാ സംഭവിക്കുന്നതായാൽ ആയതെല്ലാം എന്റെ ചിലവിലും ഉത്തരവാദിത്ത്വ ത്തിലും ഇതരസ്വത്തുക്കൾ ചാർജാക്കിയും പരിഹരിച്ചു തന്നു കൊള്ളാ മെന്ന് സമ്മതിച്ചിരിക്കുന്നു. ''',
+    'translation': ''' If, contrary to the above, any rights, prior liabilities, or other issues are found to exist in the land being sold, and if you suffer any losses on account of this property or defects in this deed, I hereby agree to resolve all of them at my own expense and responsibility, by charging other assets of mine.'''},
+
+{'malayalam_sent': '''മേൽ പറഞ്ഞ എറണാകുളം സബ് രജിസ്ട്രാർ ഓഫീസ് വക 1964 ലെ 765-ാം നംപർ തീറാധാരം നഷ്ടപെട്ടു പോയിട്ടുള്ളതും ആവിവരം 2005 ജൂലായ് മാസം 30-ാം തീയതിയിലെ മാതൃഭൂമി കൊച്ചിൻ എഡിഷൻ ദിനപത്രത്തിൽ പരസ്യപെടുത്തിയിട്ടുള്ളതും അതിൻപ്രകാരം മേൽ പറഞ്ഞ ആധാരത്തെ കുറിച്ച് എന്തെങ്കിലും വിവരങ്ങൾ ലഭിക്കുകയോ ചെയ്തിട്ടില്ലാത്തതുമാകുന്നു. ''',
+    'translation': '''The above-mentioned sale deed number 765 of 1964 of the Ernakulam sub-registrar's office has been lost, and this information has been published in the Mathrubhumi Kochi edition newspaper on July 30, 2005. According to this, no information has been received about the above-mentioned deed. '''},
+
+{'malayalam_sent': '''ഇതു സംബന്ധ മായി ഞാൻ എഴുതിയ ഇന്നേ ദിവസത്തിലെ സത്യവാങ് മൂലവും പ്രതപരസ്യത്തിന്റെ ഫോട്ടോകോപ്പിയും ഇസഹിതം തനും മേൽ നംപറ ധാരത്തിന്റെ അടയാളസഹിതം പകർപ്പ് എറണാകുളം രജിസ്ട്ര് 2007 3951-ാം നംപർ തീറാധാരത്തോടൊപ്പം തന്നിട്ടുള്ളതും ഇപ്രകാര മെല്ലാം സമ്മതിച്ച് താഴെ എഴുതുന്ന സാക്ഷികൾ കാൺകെ ഞാൻ ഈ തീറാധാരത്തിൽ ഒപ്പിട്ടു തന്നിരിക്കുന്നു. ''',
+    'translation': '''In connection with this, I have submitted my affidavit dated today, and photocopy of the news paper advertisement, along with the copy of the deed number 3951 of 2007 of Eranakulam registrar. I hereby agree to all of this, and I have signed this sale deed in the presence of the witnesses below. '''},
+
+{'malayalam_sent': '''സാക്ഷികൾ. 1) വല്ലാർപാടം കാട്ടുനിലത്തു ആൻറണി മകൻ റോമി ആൻറണി 2) വല്ലാർപാടം പളിക്കവീട്ടിൽ മാസിലി മകൻ പി. എം. ക്ലീറ്റസ് തയ്യാറാക്കിയത് : അഡ്വക്കേറ്റ് പി.കെ.ജോസഫ്, KL 63/66. പുളിക്കകുടിയിൽ ദേശാഭിമാനി റോഡ് കലൂർ, കൊച്ചി 17. ''',
+    'translation': '''Witnesses: (1) Romy Anthony, son of Anthony, Kattunilathu, Vallarpadom (2) P.M. Cleetus, son of Masili, of Palikaveettil, Vallarpadom
+Prepared by: Advocate PK. Joseph, KL 63/66. Pulikakudiyil, Deshabhimani Road, Kaloor, Kochi 17. '''},
+
+
+{'malayalam_sent': '''വിൽക്കുന്നയാളുകൾ, ലൂസി ഫെർണാണ്ടോ, ജോൺസൺ, സൈമൺ, മേരിടെൽമ. വാങ്ങുന്നയാൾ, വി. കെ. അബ്ദുൾ റഹീം. ''',
+    'translation': '''Sellers: Lucy Fernando, Johnson, Simon, Marytelma. Buyer: V. K. Abdul Rahim. '''},
+
+{'malayalam_sent': '''23-06-2008 രണ്ടായിരത്തിയെട്ട് ജൂൺ മാസം ഇരുപത്തിമൂന്നാം തീയതി കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, 1) ലൂസി ഫെർണാണ്ടോയും, ടി എസ്.എൻ ഫെർണാണ്ടോ യുടേയും ലൂസി ഫെർണാണ്ടോയുടേയും മക്കൾ കൊച്ചി കസ്റ്റംസ്സിൽ ജോലി, (PAN NO: AJHPJ4595P), 36(മുപ്പത്തിആറ്) വയസ്സ്, 2) ജോൺസണും, ചുമട്ടുതൊഴിലാളി, 34(മുപ്പത്തിനാല്) വയസ്സ്, 3) സൈമണും, സ്വസ്ഥം 30(മുപ്പത്) വയസ്സ്, 4) മേരിടെൽമയും കൂടി ആലുവ താലൂക്ക്, ആലുവ വെസ്റ് വില്ലേജ്, ആലുവ കരയിൽ മാർക്കറ്റ് റോഡിൽ ആലുവ 1-ൽ മാനാടത്ത് ബിൽഡിംഗ്സിൽ (PAN-AAJCS 0115J) രജിസ്റ്റേഡ് ആഫീസായി 1956-ലെ കംപനീസ് ആക്ട് പ്രകാരം രജിസ്റ്റർ ചെയ്തു പ്രവർത്തിക്കുന്ന സർഗം ബിൽഡേർസ് പ്രൈവറ്റ് ലിമിറ്റഡിനുവേണ്ടി ചെയർമാനും മാനേജിംഗ് ഡയറക്ടറുമായ കണയന്നൂർ താലൂക്കിൽ, എളംകുളം വില്ലേജിൽ കടവന്ത്ര ദേശത്ത്, കൊച്ചി-682020-ൽ വാട്ടർലാന്റ് റോഡിൽ സർഗം വീട്ടിൽ താമസം വി.എം.കുഞ്ഞാലിനൈന മകൻ ബിസിനസ്സ്, 60(അറുപത്) വയസ്സ് വി.കെ.അബ്ദുൾ റഹീം പേർക്ക് എഴുതിക്കൊടുത്ത തീറാധാരം. ''',
+    'translation': '''23-06-2008 Sale deed executed by 1) Lucy Fernando widow of late S.N. Fernando (aka Susai Antony), unemployed, residing at Konangothu House, Vallarpadom Desom, Mulavukad Village, Kanayannoor Taluk, aged 55 years and children of her and the aforementioned SN Fernando, 2) Johnson, aged 36 years, employed at Kochi Customs (PAN NO. AJHPJ4595P)  3) Simon, aged 34 years, headload worker 4) Mary Telma, aged 30 years, unemployed, in favor of Sargam Builders Private Ltd (PAN No- AAJCS0115J), a company registered under Companies Act of 1956 having its registered office at Manadathu Buildings, Market Road, Aluva 1, Aluva Kara, Aluva West Village, Aluva Taluk, represented by its Chairman and Managing Director VK Abdul Rahim, a businessman aged 60 years, Son of V.M Kunjalinaina, residing at Sargam House, Waterland Road, Kadavanthara Desom, Elamkulam Village, Kanayannoor Taluk.'''},
+
+{'malayalam_sent': ''' 23-06-2008 1) ലൂസി ഫെർണാണ്ടോയും, അവരുടെ മക്കൾ  2) ജോൺസണും, 3) സൈമണും, 4) മേരിടെൽമയും കൂടി സർഗം ബിൽഡേർസ് പ്രൈവറ്റ് ലിമിറ്റഡിനുവേണ്ടി ചെയർമാനും മാനേജിംഗ് ഡയറക്ടറുമായ വി.കെ.അബ്ദുൾ റഹീം പേർക്ക് എഴുതിക്കൊടുത്ത തീറാധാരം.''',
+    'translation': '''23-06-2008 Sale deed executed by 1) Lucy Fernanado and her children 2) Johnson, 3) Simon and 4) Mary Telma in favor of Sargam Builders Private Limited represented by its Chairman and Managing Director V. K Abdul Rahim '''},
+
+{'malayalam_sent': ''' കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, unemployed, widow of late S.N Fernando, also known as Susai Antony, residing at Konankodathu House, Vallarpadom Desam, Mulavukadu Village, Kanayannoor Taluk'''},
+
+{'malayalam_sent': ''' ഏറണാകുളം  താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് പാരദീസിൽ താമസം പരേതനായ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, unemployed, widow of late S.N Fernando, also known as Antony, residing at Paradise, Vallarpadom Desam, Mulavukadu Village, Ernakulam Taluk'''},
+
+{'malayalam_sent': ''' കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, Raji ''',
+    'translation': ''' Raji, aged 55 years, unemployed, widow of late S.N Fernando, also known as Susai Antony, residing at Konankodathu House, Vallarpadom Desam, Mulavukadu Village, Kanayannoor Taluk'''},
+
+{'malayalam_sent': ''' കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ ഭാര്യ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, unemployed, wife of late S.N Fernando, also known as Susai Antony, residing at Konankodathu House, Vallarpadom Desam, Mulavukadu Village, Kanayannoor Taluk'''},
+
+
+{'malayalam_sent': ''' കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ അദ്ധ്യാപിക  55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, teacher, widow of late S.N Fernando, also known as Susai Antony, residing at Konankodathu House, Vallarpadom Desam, Mulavukadu Village, Kanayannoor Taluk'''},
+
+
+{'malayalam_sent': ''' എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, unemployed, widow of late S.N Fernando'''},
+
+
+{'malayalam_sent': ''' കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി ''',
+    'translation': ''' Late Susai Antony, who used to reside at Konankodathu House, Vallarpadom Desam, Mulavukadu Village, Kanayannoor Taluk'''},
+
+{'malayalam_sent': ''' കോനങ്കോടത്തുവീട്ടിൽ താമസം പരേതനായ സൂസൈ ആന്റണി എന്ന എസ്.എൻ ഫെർണാണ്ടോ വിധവ സ്വസ്ഥം 55 (അൻപത്തിഅഞ്ച്) വയസ്സ്, ലൂസി ഫെർണാൻഡോ ''',
+    'translation': ''' Lucy Fernando, aged 55 years, unemployed, widow of late S.N Fernando, also known as Susai Antony, residing at Konankodathu House'''},
+
+
+{'malayalam_sent': '''മുളവുകാട് വില്ലേജ് സർവ്വെ 817/13-ൽ പ്പെട്ട 20,500 സെന്റ് വഹകൾ പാലിയത്തുനിന്നും പുത്തൻവീട് പറംപടമഠത്തിൽ അപ്പു ഭാഗവതർ മകൻ ദൊരൈ സ്വാമി അയ്യർക്ക് കൊച്ചി സബ് രജിസ്ട്രാഫീസ് 1086-ലെ 280-ാം നംപർ പാട്ട ചീട്ടുപ്രകാരം പാട്ടാവകാശം സിദ്ധിച്ചത് കൈമറിഞ്ഞ് എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് 1952-ലെ 1163-ാം നംപർ തീറാധാര പ്രകാരം അറക്കപറംപിൽ റാഫേൽ മകൻ ജോസഫിന് സിദ്ധിക്കുകയും എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് വക 1954-ലെ 720-ാം നംപർ തീറാധാരപ്രകാരം 18.750 സെന്റും 1956-ലെ 1472-ാം നംപർ തീറാധാരപ്രകാരം 1.750 സെന്റും കൂടിയ ടി 20.500 സെന്റ് വഹകൾ കോണ്ടോത്ത് ലൂയിസ്ഗോമസ് മകൻ കാറൾഗോമസ് ടി ജോസഫിൽ നിന്നും തീറുവാങ്ങി കൈവശം വച്ച് അനുഭവിച്ചു വന്നതും കൊടുങ്ങല്ലൂർ സ്ബ്ബ്-രജിസ്ട്രാഫീസ് 1956 ലെ 650-ാം നമ്പർ ഭാഗാധാരപ്രകാരം പാലിയം തറവാട്ടിൽ നടന്ന ഭാഗം വയ്പ്പിൽ കാവൂട്ടിക്കുട്ടി കുഞ്ഞമ്മ മകൾ സരസ്വതി കുഞ്ഞമ്മയുടേയും ടിയാളുടെ മക്കൾ മോഹനദാസൻറയും മനോഹരൻകുട്ടന്റേയും ഓഹരിക്ക് സർവ്വസ്വാതന്ത്യസഹിതം സിദ്ധി ച്ചത് പ്രസ്തുത സരസ്വതികുഞ്ഞമ്മ, മോഹനദാസൻ, മനോഹരൻകുട്ടൻ എന്നിവരിൽ നിന്നും എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് വക 1966 ലെ 1780-ാം നംപർ തീറാധാരപ്രകാരം ജന്മാവകാശവും തീറുവാങ്ങിയതനുസരിച്ച് ടി കാരൾഗോമസ് ക്രയവിക്രയസർവ്വസ്വാതന്ത്ര്യമായി കൈവശം വച്ച് അനുഭവിച്ചു വന്നിരുന്നതും, ടി 20,500 സെന്റിൽ നിന്നും തീറുപോയതു കഴിച്ച് ബാക്കിയുള്ള മുളവുകാട് വില്ലേജിൽ സർവ്വെ 817/13ൽ 11,500 സെന്റ് (4.65ആർ)വഹകൾ ടി കാറൾഗോമസിൽ നിന്നും കോന ങ്കോടത്തുവീട്ടിൽ ശൌരിയാർപിച്ചെ എന്ന എം.എസ്.പി. ഫെർണാണ്ടോ മകൻ സുസൈ ആൻറണി എന്ന എസ്.എൻ.ഫെർണാണ്ടോ എറണാകുളം രജിസ്ട്രാഫീസ് 1977ലെ 3172-ാം നംപർ ആധാരപ്രകാരം തീരുവാങ്ങി ക്രയവിക്രയസ്വാതന്ത്ര്യസഹിതം കൈവശം വച്ച് അനുഭവിച്ചു വന്നിരുന്നതാകുന്നു. ''',
+    'translation': ''' The land measuring 20,500 cents in Survey 817/13 of Mulavukad village was originally leased to Appu Bhagavathar, son of Puthenveedu Parampattamathil, by Paliam family, under the patta chit No 280 or 1086 of the Cochin Sub-Registrar's Office which was later transferred to Joseph son of Arakkampparampil Raphel by the sale deed no 1163 of the 1952. Carl Gomes, son of Louis Gomes of Kondoth purchased, posessed and enjoyed the aforesaid 20.500 cents of land from the aforementioned Joseph, which included 18.750 cents under sale deed number 720 of the 1954 and 1.750 cents under sale deed number 1472 of the 1956 of the Eranakulam Sub Registrar's office. In the partition of the Paliam family properties, Saraswati Kunjamma daughter of Kavootti Kunjamma and her sons Mohandasan and Manoharan Kuttan obatined ownership right on the above property by the partition deed number 650 of 1956 of Kodungallore Sub Registrar's office. From Saraswati Kunjamma and her children Mohanadasan and Manoharan kuttan, the abovementioned Carl Gomes acquired freehold rights on the above mentioned 20.500 cents of land  by sale deed number 1780 of 1966 of Eranakulam Sub Registrar's Office. Thus the abovementioned Carl Gomes enjoyed absolute rights on the abovementioned land parcel of 20.5 cents. Out of this land, leaving a part that was otherwise sold, 11.500 cent (4.65 are) in survey number 817/13 of Mulavukadu village, was acqured by S.N Fernando alias Susai Antony son of M.S.P  Fernando alias Konankodathu Veettil Shouriyarpiche by deed number 3172 of 1977 of Eranakulam Registrar's office. Abovementioned S. N Fernando thus enjoyed the property with all freedoms including freedom to transact in the property.'''},
+
+{'malayalam_sent': '''സുസൈ ആന്റണി എന്ന എസ്.എൻ.ഫെർണാണ്ടോ 1995-ാം ആണ്ട് മെയ് മാസം അഞ്ചാം തീയതി നിര്യാതനായിട്ടുള്ളതും തുടർന്ന് 11.500 സെന്റ് വഹകൾ ടിയാന്റെ അവകാശികളായ ലൂസി ഫെർണാണ്ടോ, ജോൺസൺ, സൈമൺ, മേരിടെൽ എന്നിവർക്ക് പിൻതുടർച്ചാവകാശ പ്രകാരം സിദ്ധിച്ച് കൂട്ടായി കൈവശം വച്ച് പേരിൽ കുട്ടി കരംതീർത്തും വഹകളിലെ മുളവുകാട് പഞ്ചായത്ത് vii:218-ാം നംപർ കെട്ടിടത്തിൽ താമസിച്ചും ക്രയവിക്രയസർവ്വസ്വാതന്ത്ര്യമായി അനുഭവിച്ചു വരുന്നതാകുന്നു ''',
+    'translation': '''S.N.Fernandes, known as Susai Antony, passed away on May 5, 1995. Following this, the 11.500 cents of land was inherited by his heirs, Lucy Fernandes, Johnson, Simon, and Marytel. They jointly possess the land, have paid taxes in their names, and are living in the building in the property, numbered vii:218 of the Mulavukad Panchayat. They are freely enjoying the land, including the right to sell or transfer it. '''},
+
+{'malayalam_sent': '''സുസൈ ആന്റണി എന്ന എസ്.എൻ.ഫെർണാണ്ടോ ജീവിച്ചിരുന്നപ്പോൾ ടി 11.500 സെന്റ് വഹകളിൽ സ്ഥാപിച്ച് കൊച്ചിൻ കസ്റ്റംസ് ആൻഡ് സെൻട്രൽ എക്സൈസ് ഓപ്പറേറ്റീവ് സൊസൈറ്റി നംപർ-41 പേർക്ക് എറണാകുളം സബ്ബ് രജിസ്ട്രാഫീസ് 1977-ലെ 3173-ാം നംപർ പണയാധാരപ്രകാരമുള്ള ഈട് പണയം 1981 ലെ 95-ാം നംപർ പ്രകാരവും എറണാകുളം രജിസ്ട്രാഫീസ് 1986 ലെ 4373-ാം നംപറും 1990-ലെ 808-ാം നംപറും പണയാധാരങ്ങൾ പ്രകാരം ഉള്ള ഈട് പണയങ്ങൾ എറണാകുളം രജിസ്ട്രാഫീസ് 2008-ലെ 1642-ാം നംപർ ഒഴിമുറിയാധാരപ്രകാരവും തീർത്തിട്ടുള്ളതാണ്. ''',
+    'translation': '''S.N.Fernandes, known as Susai Antony, had mortgaged the 11,500 cents of land to the Cochin Customs and Central Excise Operative Society, numbered 41, under the mortgage deed number 3173 of the Ernakulam Sub-Registrar's Office in 1977. This mortgage was further extended in 1981 under number 95, and in 1986 and 1990 under numbers 4373 and 808, respectively. The mortgages were finally redeemed under the release deed number 1642 of the Ernakulam Registrar's Office in 2008. '''},
+
+
+{'malayalam_sent': '''സുസൈ ആൻറണി എന്ന എസ്.എൻ.ഫർണാണ്ടോ ടി 11.500 സെന്റ് വഹകളിൽ സ്ഥാപിച്ച് പ്രസിഡണ്ട് ഓഫ് ഇൻഡ്യയുടെ പേർക്ക് എറണാകുളം രജിസ്ട്രാഫീസ് 1981-ലെ 812-ാം നംപറും 1987-ലെ 3033-ാം നംപറും പണയാധാരങ്ങൾ യഥാക്രമം എറണാകുളം സബ് രജിസ്ട്രാഫീസ് 2008 ലെ 1748, 2007 ലെ 7899 എന്നീ ഒഴുമുറി ആധാരങ്ങളാൽ വിടുതൽ ചെയ്തിട്ടുള്ളതും യാതൊരുവിധമായ കടബാദ്ധ്യതയും ന്യൂനതയും കൂടാതെ ഞങ്ങൾ കൂട്ടായി കൈവശം വച്ച് വില്ലേജ് കരം കെട്ടിടനികുതി മുതലായവ തീർത്തു അടക്കി അനുഭവിച്ചു വരുന്നതും ഞങ്ങൾക്കുമാത്രം അവകാശപ്പെട്ടതുമാകുന്നു ''',
+    'translation': '''The aforesaid 11,500 cents of land that S.N.Fernandes, known as Susai Antony, had mortgaged to the President of India under the mortgage deeds number 812 and 3033 of the Ernakulam Registrar's Office in 1981 and 1987, respectively, were finally redeemed under the release deeds number 1748 and 7899 of the Ernakulam Sub-Registrar's Office in 2008 and 2007, respectively. The land is now free of any debt or encumbrance and is jointly held by us. We have paid the village tax and property tax, and we are freely enjoying the land. The land is now our sole property. '''},
+
+{'malayalam_sent': '''റീസർവ്വെ പ്രകാരം പ്രസ്തുത വഹകൾ സർവ്വെ 817/13 ൽ നിന്നും ബ്ലോക്ക് നംപർ 2-ൽ റീ സർവ്വെ നംപർ 189/1 ൽ ഉൾപെടുകയും എന്നാൽ തുടർന്നു വഹകൾ അളന്നതിൽ 11.500 സെൻറ് (4.65 ആർ)ൽ കൂടുതലായി 13.240 സെൻറ് (5.36 ആർ) ഉള്ളതായി കണ്ടതിനെ തുടർന്ന് മുളവുകാട് വില്ലേജിലെ തണ്ടപ്പേർ കണക്കിൽ ഞങ്ങളുടെ നാലുപേരുടേയും പേരിൽ 2558-ാം നംപർ തണ്ടപ്പേരിൽ ടി 5.36 ആർ ഉൾപെടുത്തി നികുതി അടക്കുകയും അപ്രകാരം ഞങ്ങളുടെ ഉടമസ്ഥതയിലും കൈവശാവകാശത്തിലും ക്രയവിക്രയസ്വാതന്ത്യമായി ഇപ്പോൾ താഴെ പട്ടിക വിവരിക്കുന്ന മുളവുകാട് വില്ലേജ് ബ്ലോക്ക് 2-ൽ റീസർവ്വെ 189/1-ൽ 5.36 ആറിന് 13.24 സെന്റ് വഹകളും അതിലിരിപ്പ് ഇലക്ട്രിക്, പൈപ്പ് കണക്ഷനൊടുകൂടിയ മുളവുകാട് പഞ്ചായത്ത് VII/218 എന്ന കെട്ടിടവും ഉള്ളതാണ് ''',
+    'translation': '''According to the resurvey, the above land was included in resurvey number 189/1 in block number 2 from survey number 817/13. However, it was later found that the land was actually 13.240 cents (5.36 acres), which is more than 11.500 cents (4.65 acres). As a result, the above 5.36 are were included in our name as the 2558th number thandapper of Mulavukad village, and we paid tax for the same. Therefore, we now own, possess, and freely enjoy the land as detailed in the table below, including the building numbered VII/218 of the Mulavukad Panchayat, which is located in block number 2 of the Mulavukad village, survey number 189/1, with electricity and pipe connections. '''},
+
+{'malayalam_sent': '''അപ്രകാരമുള്ള താഴെ പട്ടികയിൽ വിവരിക്കുന്ന ബ്ലോക്ക് 2-ൽ റീസർവ്വെ 189/1-ൽ പെട്ട 5.36 ആർ (13.240 സെന്റ്) വിസ്തീർണമുള്ള സ്ഥലവും അതിലിരിപ്പ് മുളവുകാട് പഞ്ചായത്ത് VII/218 എന്ന ഓടിട്ടപഴയ കെട്ടിടവും അതിലെ ഇലക്ട്രിക്, പൈപ്പ് കണക്ഷനുകളും കമ്പനിക്ക് തീറുതരുന്നതിന് നമ്മൾ തമ്മിൽ ഉടയസമ്മതപ്രകാരം 05.36 ആർ (13.240 സെന്റ്) സ്ഥലത്തിന് 25,00,000 (ഇരുപത്തിഅഞ്ച്ലക്ഷം) രൂപയും അതിലിരിപപ് VII/218 കെട്ടിടത്തിന് ഇലക്ട്രിക്, പൈപ്പ് കണക്ഷൻ സഹിതം 1,00,000(ഒരു ലക്ഷം) രൂപയും കൂടി 26,00,000 (ഇരുപത്തി ആറ് ലക്ഷം) രൂപ തീറുവില നിശ്ചയിച്ച് സമ്മതിച്ച് തീറർത്ഥം ഫെഡറൽ ബാങ്കിന്റെ ആലുവ ഫെഡറൽ ഹൈറ്റ്സ് ശാഖ 152505-ാം സംപർ ചെക്കിൻപ്രകാരം ഞങ്ങളിൽ ലൂസി ഫെർണാണ്ടോയുടെ പേരിൽ 1,00,000 (ഒരുലക്ഷം) രൂപയും ഫെഡറൽ ബാങ്ക് ആലുവ ഫെഡറൽ ഹൈറ്റ്സ് ശാഖ 152506-ാം നമ്പർ ചെക്കിൻ പ്രകാരം ജോൺ സൺന്റെ പേരിൽ 7,00,000(ഏഴു ലക്ഷം) രൂപയും ഫെഡറൽ ഹൈറ്റ്സ് ശാഖ 152507-ാം നംപർ ചെക്കിൻ പ്രകാരം സൈമൺന്റെ പേരിൽ 8,00,000(എട്ടു ലക്ഷം) രൂപയും ഫെഡറൽ ഹൈറ്റ്സ് ശാഖ 152508-0 നംപർ  ചെക്കിൻ പ്രകാരം മേരിടെൽമയുടെ പേരിൽ 7,00,000 (ഏഴുലക്ഷം) രൂപയും കൂടി ഒട്ടാകെ 23,00,000 (ഇരുപത്തി മൂന്ന് ലക്ഷം) രൂപയും ഞങ്ങൾ പരസ്പരം വീതിച്ചെടുക്കേണ്ടതിലേക്കായി ഇന്നേ ദിവസം ചെക്കിൻ പ്രകാരം 3,00,000 (മൂന്നലക്ഷം) രൂപയും ഉൾപെടെ 26,00,000 (ഇരുപത്തി ആറ് ലക്ഷം) രൂപ ഞങ്ങൾക്ക് കംപനിയിൽ നിന്നും കിട്ടി ബോദ്ധ്യം വന്ന് താഴെ പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലത്തിലും അതിലിരിച്ച് കെട്ടിടത്തിലും ഞങ്ങൾക്കുള്ള സകല വിധമായ അവകാശങ്ങളും ഇതിനാൽ പരിഛേദം വിട്ടൊഴിഞ്ഞ് കംപനിയുടെ പേരിൽ തീറായി നടത്തി കൈവശം തരികയും ചെയ്തിരിക്കുന്നതിനാൽ പട്ടികയിൽ വിവരിക്കുന്ന വഹകൾ ഇന്നു മുതൽ കംപനി തീറായി കൈവശം വച്ചും പേരിൽ പോക്കും വരവു ചെയ്യിച്ചും വില്ലേജ് കരം മുതലായവ തീർത്തും, ക്രയവിക്രയാദി സർവ്വ സ്വാതന്ത്യ സഹിതം തീറായി അടക്കി അനുഭവിച്ചു കൊള്ളുന്ന കാര്യത്തിലും, തീറു വിലയെ സംബന്ധിച്ചും മേലാൽ ഞങ്ങൾക്കോ ഞങ്ങളുടെ പിൻതുടർച്ചാവകാശികൾക്കോ യാതൊരുവിധമായ ചോദ്യവും ബാദ്ധ്യതയും അവകാശതേർച്ചകളും ഉണ്ടായിരിക്കുന്നതല്ലെന്ന് ഇതിനാൽ പൂർണമായി സമ്മതിച്ചിരിക്കുന്നു. ''',
+    'translation': '''We, the undersigned, hereby agree to sell the land measuring 5.36 are (13.240 cent) in Block 2, Resurvey 189/1 and building located within that land parcel, as described in the table below, to the company. The building, numbered VII/218 of the Mulavukad Panchayat, is tiled and has electricity and pipe connection. We have agreed to a sale price of ₹26,00,000 (twenty-six lakhs), which includes ₹25,00,000 for the land and ₹1,00,000 for the building.By check drawn on Federal Bank, Aluva Federal Heights branch, numbered 152505, we have received ₹1,00,000 (one lakh) rupees in the name of Lucy Fernandes, by check drawn on Federal Bank, Aluva Federal Heights branch, numbered 152506, we have received ₹7,00,000 (seven lakh) rupees in the name of Johnson, by check drawn on Federal Bank, Aluva Federal Heights branch, numbered 152507, we have received ₹8,00,000 (Eight lakh) rupees in the name of Simon,
+by check drawn on Federal Bank, Aluva Federal Heights branch, numbered 152508, we have received ₹7,00,000 (Seven lakh) rupees in the name of Mary Telma. Thus in total we have received ₹23,00,000 from the company as a down payment so far, and we received the remaining ₹3,00,000 by check today to be shared amongst us. We confirm the receipt of the entire consideration as agreed and we transfer all of our rights to the land and building to the company. The company will have full ownership and possession of the property, including the right to sell or transfer it. We also agree that we will not have any further questions, liabilities, or claims regarding the price. This agreement is binding on us and our heirs. '''},
+
+
+{'malayalam_sent': '''പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലത്തിൽ സ്ഥാപിച്ച് യാതൊരുവിധമായ കടബാദ്ധ്യതകളുമില്ലെന്നും, കോർട്ടു ജപ്തി, റവന്യു ജപ്തി, ജാമ്യബാധ്യത മുതലായ പ്രതിബന്ധങ്ങളിൽ പെടുകയോ പെടുത്തുകയോ ചെയ്തിട്ടില്ലെന്നും, കേരളാ ഭൂപരിഷ്ക്കരണ നിയമപ്രകാരം പരിധിയിൽ കവിഞ്ഞ വഹകൾ ഞങ്ങളുടെ കൈവശത്തിൽ ഇല്ലെന്നും. ലാൻറ് സീലിങ്ങ് കേസുകളിൽ ഉൾപെട്ടിട്ടില്ലെന്നും നിങ്ങളെ ഉത്തമവിശ്വാസപടുത്തിയും ഈ തീറാധാരം എഴുതിതന്ന് തീറർത്ഥം പറ്റി ബോദ്ധ്യം  വന്നിട്ടുള്ളതാകുന്നു. ''',
+    'translation': ''' We hereby declare that the land and building described in the table is free of any debts, encumbrances, or restrictions, such as court attachment, revenue attachment, or mortgage. We also declare that we do not have any land holdings in excess of the limits prescribed by the Kerala Land Reforms Act. We have not been involved in any land ceiling cases. We have signed this sale agreement in good faith and are fully aware of the terms of the sale.'''},
+
+{'malayalam_sent': '''മേൽഎഴുതിയതിനു വിപരീതമായി വന്ന വല്ല അവകാശന്യൂനതകളോ മുൻ ബാദ്ധ്യതകളോ മറ്റോ ഉണ്ടായി കണ്ട ഈ തീറു തരുന്ന വസ്തുവഹകളിൽ സ്ഥാപിച്ച് കമ്പനിക്ക് വല്ല നഷ്ടങ്ങളോ ഈ ആധരത്തിനു വല്ല ന്യൂനതയോ  മറ്റോ സംഭവിക്കുന്നതായാൽ ആയതെല്ലാം ഞങ്ങളുടെ ചിലവിലും ഉത്തരവാദിത്ത്വത്തിലും ഇതര സ്വത്തുക്കൾ ചാർജാക്കിയും പരിഹരിച്ചു തന്നു കൊള്ളാമെന്ന് ഏറ്റും,  മേൽ പറഞ്ഞ 1977-ലെ 3172-ാം നംപർ തീറാധാരം മുന്നാധാരങ്ങളായ 1954-ലെ 720, 1956-ലെ 1472, 1966-ലെ 1780 എന്നീ തീറാധാരങ്ങൾ 1966-ലെ 1780 തീറാധാരത്തിന്റെ 4-ാം പേജ് നഷ്ടപ്പെട്ടതിനാൽ ടി ആധാരത്തിന്റെ അടയാളസഹിതം പകർപ്പ്. 1980-ലെ 95-ാം നമ്പർ രസിത്, 2008 ലെ 1642, 2007 7899, 2003 ലെ 1748 എന്നീ ഒഴിമുറി ആധാരങ്ങൾ, കുടിക്കിട സർട്ടിഫിക്കറ്റുകൾ പേരിൽകുട്ടി കരം തീർത്ത രസീത്, കൈവശാവകാശ സർട്ടിഫിക്കറ്റ്, ലൊക്കേഷൻ സർട്ടിഫിക്കറ്റ് എന്നിവ തന്നും താഴെ എഴുതുന്ന സാക്ഷികൾ കാൺകെ ഞങ്ങൾ ഈ ആധാരത്തിൽ ഒപ്പിട്ടിരിക്കുന്നു. ''',
+    'translation': '''Contrary to the aforementioned, if any defects in title or prior liabilities are found to exist in the property being sold, and if the company suffers any losses on that account,  we agree resolve those at our own cost and responsibility and by charging our other properties. The above-mentioned sale deed number 3172 of 1977, prior deeds suchas 720 of 1954, 1472 of 1956, and 1780 of 1966 are attached. In addition, a copy of the lease agreement number 1780 of 1966 with seal is attached, as the fourth page of the original agreement is missing. Receipt number 95 of 1980, release deeds numbers 1642 of 2008, 7899 of 2007, and 1748 of 2003 are also given. We have signed this agreement in the presence of the witnesses listed below. '''},
+
+{'malayalam_sent': '''ഈ തീറാധാരം കംപ്യൂട്ടറിൽ പ്രിൻറ് ചെയ്തതാകുന്നു. വെട്ടുതിരുത്തില്ല ''',
+    'translation': '''This sale deed is printed on computer. There are no corrections. '''},
+
+{'malayalam_sent': ''' 27-4-2007 രണ്ടായിരത്തിഏഴ് ഏപ്രിൽ മാസം ഇരുപത്തിഏഴാം തിയ്യതി കണയന്നൂർ താലൂക്ക്, മുളവുകാട് വില്ലേജ് വല്ലാർപാടം ദേശത്ത് കാട്ടുനിലത്ത് ചാനി മകൻ 67(അറുപത്തിഏഴ്)വയസ്സ്, കച്ചവടം ആൻറണി, ആലുവ താലൂക്ക്, ആലുവ വെസ്റ്റ് വില്ലേജ്, ആലുവ കരയിൽ മാർക്കറ്റ് റോഡിൽ, ആലുവ-1ൽ, മാനാടത്ത് ബിൽഡിംഗ്സിൽ രജിസ്റ്റേഡ് ആഫീസായി 1956 ലെ കംപനീസ് ആക്ട് പ്രകാരം രജിസ്ട്രർ ചെയ്തു പ്രവർത്തിക്കുന്ന സർഗം ബിൽഡേഴ്സ് പ്രൈവറ്റ് ലിമിറ്റഡിനു വേണ്ടി (PAN- AAJCS 0115 J) ചെയർമാനും മാനേജിംഗ് ഡയറക്ടറുമായ കണയന്നൂർ താലൂക്ക് എളംകുളം വില്ലേജിൽ കടവന്ത്ര ദേശത്ത് കൊച്ചിൻ-682020ൽ, വാട്ടർ ഫ്രണ്ട് റോഡിൽ സർഗം വീട്ടിൽ താമസം വി.എം.കുഞ്ഞാലി നൈന മകൻ ബിസിനസ്സ്, 58 (അൻപത്തി എട്ട്) വയസ്സ്, വി. കെ. അബ്ദുൾ റഹീം പേർക്ക് എഴുതിക്കൊടുത്ത തീറാധാരം: ''',
+    'translation': '''Sale deed executed on 27-4-2007 by Antony, son of Chani, aged 67, a merchant, residing at Vallarpadam Desom, Mulavukadu Village, Kanayannur Taluk in favor of Sargam Builders private limited (PAN- AAJCS 0115 J), a company registered under the companies act of 1956, having its registered office at Manadathu Buildings, Aluva -1, Market Road, Aluva Kara, Aluva West village, Aluva Taluk represented by its Chairman and Managing Director, V.K Abdul Rahman, son of Kunjali Naina., aged 58, a businessman, residing at Sargam House, Water Front Road, Kadavantra Desom, Elamkulam Village, Kanayannur Taluk '''},
+
+
+{'malayalam_sent': '''താഴെ പട്ടികയിൽ വിവരിക്കുന്ന 04.398 സെൻറ് (01.78 ആർ) വിസ്തീർണമുള്ള സ്ഥലത്തിന്റെ പാലിയംവക പാട്ടാവകാശം എറണാകുളം സബ്ബ് രജിസ്ട്ര് 1-ാം പുസ്തകം 1047-ാം വാല്യം 378 മുതൽ 380 വരെ വശങ്ങളിൽ രജിസ്ട്രാക്കിയ 1984 ലെ 765-ാം നംപർ തീറാധാരത്തിൽ 1-ാം നംപർ പട്ടികയായി വിവരിച്ചും ജന്മാവകാശം കണന്നൂർ താലൂക്ക് അഡീഷണൽ തഹിൽസർദാർ ഓഫീസിലെ 6-3-2006ലെ കെഡിസ് 372/06/S-2 നംപർ ഉത്തരവു പ്രകാരവും എനിക്ക് സിദ്ധിച്ചതനുസരിച്ച് യാതൊരു വിധമായ കടബാധ്യതയും ന്യൂനതയും കൂടാതെ ഞാൻ കൈവശം വച്ച് വില്ലേജ് കരം മുതലായവ തീർത്ത് അടക്കി അനു ഭവിച്ചു വരുന്നതും എനിക്ക് മാത്രം അവകാശപ്പെട്ടതുമായ 89.500 സെന്റ് വഹകളിൽ നിന്നും അളന്നു തിരിച്ചതാകുന്നു. ''',
+    'translation': '''The land measuring 4.398 cent (01.78 are) as described in the table below, is subdivided out of 89.500 cent property. I obtained the leasehold rights on the property through the sale deed number 765 of 1984, the Table 1 of which describes the property, registered in the 1st book, volume 1046 on pages 378 to 380, of the Ernakulam Subregistrar. I obtained the free hold rights on the property through the order of the Additional Tahsildar office, No. Kdis 372/06/5-2 dated 6-3-2006. I have been holding the land in possession and enjoying it, having paid all village taxes and other dues, without any debts or defects.'''},
+
+
+{'malayalam_sent': ''' അപ്രകാരമുള്ള താഴെ പട്ടികയിൽ വിവരിക്കുന്ന 04.398 സെന്റ് (01.78 ആർ) വിസ്തീർണ്ണമുള്ള സ്ഥലം കംപനിക്ക് വേണ്ടി നിങ്ങളുടെ പേരിൽ തീറുതരുന്നതിന് നമ്മൾ തമ്മിൽ ഉഭയ സമ്മതപ്രകാരം 6,60,000 (ആറ് ലക്ഷത്തി അറുപതിനായിരം) രൂപ തീറു വില നിശ്ചയിച്ച് സമ്മതിച്ച് തീറർത്ഥം ആറ്ലക്ഷത്തി അറുപതിനായിരം രൂപയും എനിക്ക് കംപനിയിൽ നിന്നും കിട്ടി ബോദ്ധ്യം വന്ന് താഴെ പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലത്തിൽ എനിക്കുള്ള സകല വിധമായ അവകാശങ്ങളും ഇതിനാൽ പരിഛേദം വിട്ടൊഴിഞ്ഞ് കംപനിയുടെ പേരിൽ തീറായി നടത്തി കൈവശം തന്നിരിക്കുന്നതാകുന്നു.''',
+    'translation': '''Accordingly, we have mutually agreed for a sale consideration of Rs 6,60,000 to sell the the plot of land measuring 04.398 cents (01.78 ares), as described in the table below, to you on behalf of the company. I confirm that I have received Rs. 6,60,000 from the company as sale consideration, and I hereby surrender all my rights in the land described in the table and sell it to the company and hand over possession. '''},
+
+{'malayalam_sent': '''അതനുസരിച്ച് പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലം ഇന്നു മുതൽ കംപനി തീറായി കൈവശം വച്ചും പേരിൽ പോക്കുവരവ് ചെയ്യിച്ചു വില്ലേജ് കരം തീർത്തും ക്രയവിക്രയസർവ്വസ്വാതന്ത്ര്യസഹിതം തീറായി അടക്കി അനുഭവിച്ചു കൊള്ളുന്ന കാര്യത്തിലും തീറു വിലയെ സംബന്ധിച്ചും മേലാൽ എനിക്കോ എന്റെ പിൻതുടർച്ചാവകാശികൾക്കോ യാതൊരു വിധമായ ചോദ്യവും ബാദ്ധ്യതയും അവകാശതേർച്ചകളും ഉണ്ടായിരിക്കുന്നതല്ലെന്ന് ഇതിനാൽ പൂർണ മായി സമ്മതിച്ചിരിക്കുന്നു. ''',
+    'translation': '''Accordingly, I hereby fully agree that in future, neither I nor my successors will have any questions, liabilities, or rights regarding the company's freehold right, right to possess, register in its name, pay village taxes, and enjoy the land described in the table with full freedom to buy and sell or the sale consideration '''},
+
+
+{'malayalam_sent': ''' പട്ടികയിൽ വിവരിക്കുന്ന സ്ഥലത്തിൽ സ്ഥാപിച്ച് യാതൊരു വിധമായ കടബാദ്ധ്യതകളുമില്ലെന്നും കോർട്ടു ജപ്തി, റവന്യൂ ജപ്തി, ജാമ്യ ബാദ്ധ്യത മുതലായ പ്രതിബന്ധങ്ങളിൽ പെടുകയോ പെടുത്തുകയോ ചെയ്തിട്ടില്ലെന്നും, കേരളാ ഭൂപരിഷ്ക്കരണ നിയമ പ്രകാരം പരിധിയിൽ കവിഞ്ഞ വഹകൾ എന്റെ കൈവശത്തിൽ ഇല്ലെന്നും, നിങ്ങളെ ഉത്തമ വിശ്വാസപ്പെടുത്തിയും ഈ തീറാധാരം എഴുതിതന്ന് തീറർത്ഥം പറ്റി ബോധ്യം വന്നിട്ടുള്ളതാകുന്നു.''',
+    'translation': '''I have executed this sale deed and received the sale consideration after convicing you that the land described in the table is free from any debts or liabilities, and that it has not been subject to any encumbrances such as court attachment, revenue attachment, or mortgage and that I do not have any land holdings in excess of the limits prescribed by the Kerala Land Reforms Act. '''},
+
+
+{'malayalam_sent': '''മേൽ എഴുതിയതിനു വിപരീതമായി വന്ന് വല്ല അവകാശ ന്യൂനതകളോ മുൻ ബാദ്ധ്യതകളോ മറ്റോ ഉണ്ടായി കണ്ട് ഈ തീറു തരുന്ന വസ്തു വഹകളിൽ സ്ഥാപിച്ച് കംപനിക്ക് വല്ല നഷ്ടങ്ങളോ ഈ ആധാരത്തിനു വല്ല ന്യൂനതയോ മറേറാ സംഭവിക്കുന്നതായാൽ ആയതെല്ലാം എന്റെ ചിലവിലും ഉത്തരവാദിത്വത്തിലും, ഇതര സ്വത്തുക്കൾ ചാർജാക്കിയും പരിഹറിച്ചു തന്നു കൊള്ളാമെന്ന് ഏററും, ടി. 1964 ലെ 765-ാം നംപർ തീറാധാരം നഷ്ടപ്പെട്ടു പോയിട്ടുള്ളതും, ആ വിവരം 2005 ജൂലായ് മാസം 30-ാം തിയ്യതിയിലെ മാതൃഭൂമി കൊച്ചിൻ എഡിഷൻ ദിനപത്രത്തിൽ പരസ്യപെടുത്തിയിട്ടുള്ളതും, ഇത് സംബന്ധമായി ഞാൻ 26-4-2005ൽ എഴു തിയതുമായ സത്യവാങ്ങ്മൂലവും മേൽനംപറാധാരത്തിൻറ അടയാള സഹിതം പകർപ്പും പത്രപരസ്യത്തിന്റെ ഫോട്ടോകോപ്പിയും ഇതു സഹിതം തന്നും താഴെ എഴുതുന്ന സാക്ഷികൾ കാൺകെ ഞാൻ ഈ തീറാധാരത്തിൽ ഒപ്പിട്ടു തന്നിരിക്കുന്നു. ''',
+    'translation': '''I agree that if any defects or prior liabilities are found to exist contrary to the above, and if any losses are incurred to the company due to any defects or other problems in the land sold, I will remedy them at my own cost and responsibility by charging my other assets. The sale deed number 765 of 1964 has been lost, and this information has been advertised in the Mathrubhumi Kochi edition on July 30, 2005. I have attached a copy of the affidavit I wrote on April 26, 2005, a copy of the sale deed with the seal, and a photocopy of the newspaper advertisement. I have signed this sale deed in the presence of the witnesses listed below. '''},
+
+
+{'malayalam_sent': '''സാക്ഷികൾ 1. വല്ലാർപാടം കാട്ടുനിലത്ത് ആൻറണി മകൻ ആൻസൺ 2. വല്ലാർപാടം പള്ളിക്കവീട്ടിൽ മർസിലി മകൻ പി.എം.ക്ലീറ്റസ്''',
+    'translation': '''Witnesses 1. Anson son of Antony, Kattunilathu, Vallarpadom 2. PM Kleetus son of Marsiliy, Palikkaveedu, Vallarpadom '''},
+
+
+{'malayalam_sent': '''തയ്യാറാക്കിയത് : അഡ്വക്കേറ്റ് പി.കെ.ജോസഫ്, K/63/66, പുളിക്കകുടിയിൽ, ദേശാഭിമാനി റോഡ്, കലൂർ കൊച്ചി-17. ''',
+    'translation': '''prepared by: Adovcate P.K Joseph, K/63/66, pulikkakudiyil, Deshabhimani Road, Kaloor, Kochi-17 '''},
+
+
+{'malayalam_sent': '''ഈ തീറാധാരം കംപ്യൂട്ടറിൽ പ്രിന്റ് ചെയ്തതാകുന്നു. ''',
+    'translation': '''This slae deeed is printed on computer '''},
+
+
+{'malayalam_sent': '''വെട്ടുതിരുത്തില്ല ''',
+    'translation': ''' There are no corrections'''},
+
+]

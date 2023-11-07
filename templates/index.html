@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>malten: മലയാളം തീറാധാര പരിഭാഷകൻ</title>
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}"> -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}">
+    <style>
+        .head {
+            /* text-align: center; */
+            padding-bottom: 3%;
+            padding-top: 1%;
+        }
+        .loading {
+            width: 17px;
+            height: 17px;
+            margin:auto;
+            display:table;
+            position: absolute;
+            z-index: 1;
+            left: 0;
+            right:0;
+            top: 50%;
+            border:1px solid;
+            transform:translateY(337%);
+            /* transform:translateX(150%); */
+            animation-name: loading;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            margin-left: -(50% of width);
+        }
+        @keyframes loading {
+            0%   {background-color:red; left:0px; top:0px;}
+            25%  {background-color:rgb(243, 243, 61); left:30px; top:0px;}
+            50%  {background-color:rgb(64, 64, 200); left:30px; top:30px;}
+            75%  {background-color:rgb(31, 236, 31); left:0px; top:30px;}
+            100% {background-color:red; left:0px; top:0px;}
+        }
+        /* For the Checkboxes */
+        /* The container */
+        .chk-container {
+        /* display: block; */
+        position: relative;
+        /* padding-left: 35px; */
+        margin-bottom: 12px;
+        cursor: pointer;
+        /* font-size: 22px; */
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        }
+
+        /* Hide the browser's default checkbox */
+        .chk-container input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+        }
+
+        /* Create a custom checkbox */
+        .checkmark {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: auto;
+        width: auto;
+        padding: 7px 11px 7px 11px;
+        background-color: #00000000;
+        }
+
+        /* On mouse-over, add a grey background color */
+        .chk-container:hover input ~ .checkmark {
+        background-color: #fff;
+        }
+
+        /* When the checkbox is checked, add a blue background */
+        .chk-container input:checked ~ .checkmark {
+        color: #fff;
+        background-color: rgba(250, 95, 34, 0.888);
+        }
+
+        /* Create the checkmark/indicator (hidden when not checked) */
+        .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+        }
+
+        /* Show the checkmark when checked */
+        .chk-container input:checked ~ .checkmark:after {
+        display: none;
+        }
+
+        /* Style the checkmark/indicator */
+        .chk-container .checkmark:after {
+        left: 9px;
+        top: 5px;
+        width: 5px;
+        height: 10px;
+        border: solid white;
+        border-width: 0 3px 3px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+        }        
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <div>
+            <img style="width:16vh; height:5vb;" src="static/images/logo/malten.png" alt="malten">
+    <h1 class="head">മലയാളം തീറാധാര പരിഭാഷകൻ</h1></div>
+    <br>
+    <div class="" id="animation"></div><br><br>
+    <div class="row justify-content-center">
+    <div class="col" id="result" style="position: absolute; z-index: 1;"></div>
+    </div>
+    <br>
+    <br>
+    <!-- <a class="btn btn-primary" id="disp_btn" href="/display">Display PDF</a> -->
+    <div class="row justify-content-around">
+    <!-- <div id="buttonsDiv" class="col-4"> -->
+    <form id="pdfForm" class="col-2" enctype="multipart/form-data" method="post">
+                <input type="file" style="display: none;" name="file" id="pdfFile" accept=".pdf" required>
+                <a class="btn btn-outline-secondary" id="fileSelect">Click Select a File to upload</a>
+                <button class="btn btn-primary" id="submitBtn" type="button" style="margin-top: 2px;">Get OCR</button>
+            </form>
+    <div class="col-2"><button class="btn btn-primary" id="downloadOCRbtn" type="button">Download OCR</button></div>
+    <form id="ocrForm" class="col-2" enctype="multipart/form-data" method="post">
+        <input type="file" style="display: none;" name="file" id="ocrFile" accept=".txt" required>
+        <a class="btn btn-outline-secondary" id="ocrfileSelect">Click Select a File to upload</a>
+        <button class="btn btn-primary" id="uploadOCRbtn" type="button" style="margin-top: 2px;">upload OCR</button>
+    </form>
+    <!-- </div> -->
+    <div class="col-2" id="tranDiv">
+    </div>
+    <div class="col-2"><button class="btn btn-primary" id="downloadTransbtn" type="button">download translation</button></div>
+    <div class="col-2">
+        <button class="btn btn-warning" id="cancelBtn" type="button">Cancel</button>
+    </div>
+    </div>
+    <br>
+    <hr>
+    <ul class="nav nav-pills nav-justified" id="pills-tab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <label class="chk-container">
+                <input type="checkbox" checked id="pdf-check">
+                <span class="btn btn-outline-secondary checkmark">PDF</span>
+              </label>
+        </li>
+        <li class="nav-item" role="presentation">
+            <label class="chk-container">
+                <input type="checkbox" checked id="ocr-check">
+                <span class="btn btn-outline-secondary checkmark">OCR</span>
+              </label>
+        </li>
+        <li class="nav-item" role="presentation">
+            <label class="chk-container">
+                <input type="checkbox" id="trans-check">
+                <span class="btn btn-outline-secondary checkmark">Translation</span>
+              </label>
+        </li>
+      </ul>
+      <br><br>
+      <!-- <div class="tab-content" id="pills-tabContent"> -->
+        <div class="row justify-content-around">
+        <div class="col" id="pdf-pills" style="flex: 1;" role="tabpanel" aria-labelledby="pdf-tab" tabindex="0">
+            <!-- <div class="col"> -->
+            <!-- <h1 id="pdfPath" style="display: none;">{{ pdf_path() }}</h1> -->
+            <embed src="" id="pdfView" height="1000vh" width="700vw">
+            <!-- </div> -->
+        </div>
+        <div class="col" id="ocr-pills" role="tabpanel" aria-labelledby="ocr-tab" tabindex="0">
+            <textarea name="ocrText" id="ocrText" cols="75" rows="40" style="resize: none; border: none;"></textarea>
+        </div>
+        <div class="col d-none" id="translation-pills" role="tabpanel" aria-labelledby="translation-tab" tabindex="0">
+            <textarea name="transText" id="transText" cols="75" rows="40" style="resize: none; border: none;"></textarea>
+        </div>
+      </div>
+    <!-- </div> -->
+    <br>
+</body>
+</form>
+<a id="downloadLink" style="display: none;" download="output.txt">Download Text</a>
+</div>
+<script src="{{ url_for('static', filename='js/bootstrap.js') }}"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
