@@ -65,7 +65,7 @@ def upload():
 
 @app.route('/doc_ocr', methods=['POST'])
 def start_ocr():
-    global cancel_task, textss, pdf_path, texts
+    global cancel_task, textss, pdf_path, texts, paras
     cancel_task = False
     # ocr_thread = threading.Thread(target=convert_pdf)
     # ocr_thread.daemon = True
@@ -73,8 +73,9 @@ def start_ocr():
     # ocr_thread.join()
     convert_pdf()
     # print(textss,"**hi")
+    txts = '\n'.join(paras)
     if ocr_done == True and cancel_task == False:
-        return jsonify({'status': 'success', 'message': 'Text Extraction Successful','texts':textss, 'texts_list':paras, 'pdf_path':pdf_path})
+        return jsonify({'status': 'success', 'message': 'Text Extraction Successful','sentences':textss, 'sentences_list':paras, 'pdf_path':pdf_path})
     elif ocr_done == True and cancel_task == True:
         return jsonify({'status': 'success', 'message': 'Text Extraction partially Successful','texts':textss, 'pdf_path':pdf_path})
     else:
@@ -110,7 +111,7 @@ def convert_pdf():
 
         print(len(texts))
         textss = '\n'.join(texts)
-        paras = re.split(r'\n\n\n', textss)
+        paras = re.split(r'\r?\n\r?\n+', textss)
         # paras = textss.split('\n+')
         print(len(paras))
         for i,para in enumerate(paras):
