@@ -319,11 +319,11 @@ function sendDataToTranslate() {
                 c = i+1;
                 if (i==0){
                     // document.getElementById("transText").value = textarr[i];
-                    document.getElementById("transText").value = 'Sentence '+ c + '\n' + translatedTxt[i];
+                    document.getElementById("transText").value = 'Para '+ c + '\n' + translatedTxt[i];
                 }
                 else{
                 // document.getElementById("ocrText").value += textarr[i];
-                document.getElementById("transText").value += '\n\nSentence '+ c + '\n' + translatedTxt[i];
+                document.getElementById("transText").value += '\n\nPara '+ c + '\n' + translatedTxt[i];
             }
             }
             document.getElementById("submitBtn").disabled = false;

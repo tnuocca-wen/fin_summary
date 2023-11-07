@@ -153,6 +153,8 @@ def convert_pdf():
 
 @app.route('/translate', methods=['POST'])
 def translate():
+    data = request.json
+    print(data)
     global paras
     summa = summarize(paras)
     return jsonify({'status': 'success', 'message': 'Translated Successfully', 'translated': summa})
